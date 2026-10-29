@@ -20,6 +20,7 @@ import random
 import re
 import subprocess
 import sys
+import threading
 import time
 import urllib.error
 import urllib.parse
@@ -256,8 +257,9 @@ def git_sync(message):
     if git("diff", "--cached", "--quiet").returncode == 0:
         return
     git("commit", "-m", message)
-    git("pull", "--rebase", "--autostash", "-X", "theirs")
-    res = git("push")
+    branch = git("rev-parse", "--abbrev-ref", "HEAD").stdout.strip()
+    git("pull", "--rebase", "--autostash", "-X", "theirs", "origin", branch)
+    res = git("push", "origin", f"HEAD:{branch}")
     log("  state saved to repo" if res.returncode == 0 else f"  git push failed: {res.stderr.strip()[:200]}")
 
 
@@ -274,71 +276,58 @@ def check_shop(shop, cfg):
     return tracked
 
 
-def run_cycle(cfg, state, shops, dry_run, first_run):
+def apply_result(cfg, state, shop, tracked, error, dry_run):
+    """Fold one shop's check into state. Returns (changed, new alerts)."""
     changed = False
     alerts = []
-    with concurrent.futures.ThreadPoolExecutor(max_workers=len(shops)) as pool:
-        futures = {pool.submit(check_shop, s, cfg): s for s in shops}
-        for fut in concurrent.futures.as_completed(futures):
-            shop = futures[fut]
-            health = state["shops"].setdefault(shop["name"], {"fails": 0, "flagged": False})
-            try:
-                tracked = fut.result()
-            except Exception as e:
-                health["fails"] += 1
-                health["last_error"] = f"{type(e).__name__}: {e}"[:200]
-                log(f"{shop['name']}: FAILED ({health['last_error']}) x{health['fails']}")
-                if health["fails"] >= cfg["warn_after_failures"] and not health["flagged"]:
-                    health["flagged"] = True
-                    changed = True
-                    notify(cfg, f"Can't check {shop['name']}",
-                           f"{health['last_error']}. Skipping it until it answers again. "
-                           "Check this shop yourself for now.", priority=2, tags=["warning"], dry_run=dry_run)
-                continue
-            if health["flagged"]:
-                notify(cfg, f"{shop['name']} is back", "Stock checks for this shop are working again.",
-                       priority=2, tags=["white_check_mark"], dry_run=dry_run)
-                changed = True
-            if health["fails"] or health["flagged"]:
-                changed = True
-            health.update(fails=0, flagged=False)
-            health.pop("last_error", None)
+    health = state["shops"].setdefault(shop["name"], {"fails": 0, "flagged": False})
+    if error:
+        health["fails"] += 1
+        health["last_error"] = f"{type(error).__name__}: {error}"[:200]
+        log(f"{shop['name']}: FAILED ({health['last_error']}) x{health['fails']}")
+        if health["fails"] >= cfg["warn_after_failures"] and not health["flagged"]:
+            health["flagged"] = True
+            changed = True
+            notify(cfg, f"Can't check {shop['name']}",
+                   f"{health['last_error']}. Skipping it until it answers again. "
+                   "Check this shop yourself for now.", priority=2, tags=["warning"], dry_run=dry_run)
+        return changed, alerts
 
-            buyable = sum(1 for i in tracked if i["available"])
-            log(f"{shop['name']}: {len(tracked)} tracked, {buyable} in stock")
-            for item in tracked:
-                key = item["url"]
-                prev = state["items"].get(key, {})
-                alertable = item["available"] and price_ok(item, item["rule"])
-                record = {
-                    "shop": shop["name"], "title": item["title"], "product": item["rule"]["name"],
-                    "price": item["price"], "available": item["available"], "alertable": alertable,
-                    "last_change": prev.get("last_change"),
-                }
-                if prev.get("available") != item["available"] or prev.get("price") != item["price"]:
-                    record["last_change"] = now().isoformat(timespec="seconds")
-                if alertable and not prev.get("alertable"):
-                    alerts.append((shop, item))
-                if record != prev:
-                    state["items"][key] = record
-                    changed = True
+    if health["flagged"]:
+        notify(cfg, f"{shop['name']} is back", "Stock checks for this shop are working again.",
+               priority=2, tags=["white_check_mark"], dry_run=dry_run)
+    if health["fails"] or health["flagged"]:
+        changed = True
+    health.update(fails=0, flagged=False)
+    health.pop("last_error", None)
 
-    if first_run:
-        lines = [f"{i['rule']['name']} at {s['name']} ({fmt_price(i['price'])})" for s, i in alerts]
-        summary = (f"Watching {len(state['items'])} products across {len(shops)} shops. "
-                   + (f"In stock right now: " + "; ".join(lines[:10]) if lines else "Nothing in stock at a fair price right now."))
-        notify(cfg, "Pokémon 30th stock watcher is running", summary, priority=3, tags=["eyes"], dry_run=dry_run)
-        return changed
+    log(f"{shop['name']}: {len(tracked)} tracked, {sum(i['available'] for i in tracked)} in stock")
+    for item in tracked:
+        prev = state["items"].get(item["url"], {})
+        alertable = item["available"] and price_ok(item, item["rule"])
+        record = {
+            "shop": shop["name"], "title": item["title"], "product": item["rule"]["name"],
+            "price": item["price"], "available": item["available"], "alertable": alertable,
+            "last_change": prev.get("last_change"),
+        }
+        if prev.get("available") != item["available"] or prev.get("price") != item["price"]:
+            record["last_change"] = now().isoformat(timespec="seconds")
+        if alertable and not prev.get("alertable"):
+            alerts.append((shop, item))
+        if record != prev:
+            state["items"][item["url"]] = record
+            changed = True
+    return changed, alerts
 
-    for shop, item in alerts:
-        rule = item["rule"]
-        kind = "PRE-ORDER" if item["preorder"] else "IN STOCK"
-        cap = f" (your max {fmt_price(rule['max_price'])})" if rule.get("max_price") else ""
-        notify(cfg, f"{kind}: {rule['name']} at {shop['name']}",
-               f"{fmt_price(item['price'])}{cap}\n{item['title']}\nTap to open. Be quick!",
-               url=item["url"], priority=rule.get("priority", cfg["ntfy"].get("priority", 4)),
-               tags=["rotating_light"], dry_run=dry_run)
-    return changed
+
+def send_alert(cfg, shop, item, dry_run):
+    rule = item["rule"]
+    kind = "PRE-ORDER" if item["preorder"] else "IN STOCK"
+    cap = f" (your max {fmt_price(rule['max_price'])})" if rule.get("max_price") else ""
+    notify(cfg, f"{kind}: {rule['name']} at {shop['name']}",
+           f"{fmt_price(item['price'])}{cap}\n{item['title']}\nTap to open. Be quick!",
+           url=item["url"], priority=rule.get("priority", cfg["ntfy"].get("priority", 4)),
+           tags=["rotating_light"], dry_run=dry_run)
 
 
 def main():
@@ -359,26 +348,55 @@ def main():
     shops = [s for s in cfg["shops"] if s.get("enabled", True)
              and (not args.only or args.only.lower() in s["name"].lower())]
     deadline = time.time() + args.loop_minutes * 60
-    next_due = {s["name"]: 0.0 for s in shops}
-    last_commit = 0.0
+    lock = threading.Lock()
+    last_commit = [0.0]
 
-    while True:
-        due = [s for s in shops if next_due[s["name"]] <= time.time()]
-        if due:
-            changed = run_cycle(cfg, state, due, args.dry_run, first_run)
-            first_run = False
-            for s in due:
-                base = s.get("interval_seconds", cfg["interval_seconds"])
-                next_due[s["name"]] = time.time() + base * random.uniform(0.8, 1.2)
+    def check(shop):
+        try:
+            tracked, error = check_shop(shop, cfg), None
+        except Exception as e:
+            tracked, error = None, e
+        with lock:
+            changed, alerts = apply_result(cfg, state, shop, tracked, error, args.dry_run)
             if changed:
                 state["updated"] = now().isoformat(timespec="seconds")
                 save_state(state)
-                if args.git_commit and time.time() - last_commit > 300:
+                if args.git_commit and time.time() - last_commit[0] > 300:
                     git_sync("Update stock state")
-                    last_commit = time.time()
-        if args.once or time.time() > deadline:
-            break
-        time.sleep(max(5, min(next_due.values()) - time.time()))
+                    last_commit[0] = time.time()
+        return alerts
+
+    # First pass checks every shop together, so a brand-new setup can send one
+    # "here's what's in stock now" summary instead of a burst of alerts.
+    with concurrent.futures.ThreadPoolExecutor(max_workers=len(shops)) as pool:
+        found = [a for alerts in pool.map(check, shops) for a in alerts]
+    if first_run:
+        lines = [f"{i['rule']['name']} at {s['name']} ({fmt_price(i['price'])})" for s, i in found]
+        notify(cfg, "Pokémon 30th stock watcher is running",
+               f"Watching {len(state['items'])} products across {len(shops)} shops. "
+               + ("In stock right now: " + "; ".join(lines[:10]) if lines
+                  else "Nothing in stock at a fair price right now."),
+               priority=3, tags=["eyes"], dry_run=args.dry_run)
+    else:
+        for shop, item in found:
+            send_alert(cfg, shop, item, args.dry_run)
+
+    # After that each shop runs on its own timer, so a slow shop never holds up the others.
+    def shop_loop(shop):
+        while True:
+            wait = shop.get("interval_seconds", cfg["interval_seconds"]) * random.uniform(0.8, 1.2)
+            if time.time() + wait > deadline:
+                return
+            time.sleep(wait)
+            for s, item in check(shop):
+                send_alert(cfg, s, item, args.dry_run)
+
+    if not args.once:
+        threads = [threading.Thread(target=shop_loop, args=(s,), daemon=True) for s in shops]
+        for t in threads:
+            t.start()
+        for t in threads:
+            t.join()
 
     if args.git_commit:
         git_sync("Update stock state")
