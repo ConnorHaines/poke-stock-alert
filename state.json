@@ -1,0 +1,873 @@
+{
+ "items": {
+  "https://magicmadhouse.co.uk/pokemon-30th-celebration-2-pack-blister-eevee": {
+   "alertable": false,
+   "available": false,
+   "last_change": "2026-10-29T14:24:01+00:00",
+   "price": 9.99,
+   "product": "2-Pack Blister",
+   "shop": "Magic Madhouse",
+   "title": "30th Celebration 2 Pack Blister - Eevee"
+  },
+  "https://magicmadhouse.co.uk/pokemon-30th-celebration-binder-collection": {
+   "alertable": false,
+   "available": false,
+   "last_change": "2026-10-29T14:24:01+00:00",
+   "price": 37.99,
+   "product": "Binder Collection",
+   "shop": "Magic Madhouse",
+   "title": "30th Celebration Binder Collection"
+  },
+  "https://magicmadhouse.co.uk/pokemon-30th-celebration-booster-pack": {
+   "alertable": false,
+   "available": false,
+   "last_change": "2026-10-29T14:24:01+00:00",
+   "price": 6.95,
+   "product": "Booster Pack",
+   "shop": "Magic Madhouse",
+   "title": "30th Celebration Booster Pack"
+  },
+  "https://magicmadhouse.co.uk/pokemon-30th-celebration-elite-trainer-box": {
+   "alertable": false,
+   "available": false,
+   "last_change": "2026-10-29T14:24:01+00:00",
+   "price": 49.99,
+   "product": "Elite Trainer Box",
+   "shop": "Magic Madhouse",
+   "title": "30th Celebration Elite Trainer Box"
+  },
+  "https://magicmadhouse.co.uk/pokemon-30th-celebration-greninja-ex-collection-box": {
+   "alertable": false,
+   "available": false,
+   "last_change": "2026-10-29T14:24:01+00:00",
+   "price": 21.99,
+   "product": "ex Box",
+   "shop": "Magic Madhouse",
+   "title": "30th Celebration Greninja ex Collection Box"
+  },
+  "https://magicmadhouse.co.uk/pokemon-30th-celebration-mini-tin-day-espeon": {
+   "alertable": false,
+   "available": false,
+   "last_change": "2026-10-29T14:24:01+00:00",
+   "price": 12.99,
+   "product": "Mini Tin",
+   "shop": "Magic Madhouse",
+   "title": "30th Celebration Mini Tin Day - Espeon"
+  },
+  "https://magicmadhouse.co.uk/pokemon-30th-celebration-mini-tin-day-lapras": {
+   "alertable": false,
+   "available": false,
+   "last_change": "2026-10-29T14:24:01+00:00",
+   "price": 12.99,
+   "product": "Mini Tin",
+   "shop": "Magic Madhouse",
+   "title": "30th Celebration Mini Tin Day - Lapras"
+  },
+  "https://magicmadhouse.co.uk/pokemon-30th-celebration-mini-tin-day-mew": {
+   "alertable": false,
+   "available": false,
+   "last_change": "2026-10-29T14:24:01+00:00",
+   "price": 12.99,
+   "product": "Mini Tin",
+   "shop": "Magic Madhouse",
+   "title": "30th Celebration Mini Tin Day - Mew"
+  },
+  "https://magicmadhouse.co.uk/pokemon-30th-celebration-mini-tin-day-moltres": {
+   "alertable": false,
+   "available": false,
+   "last_change": "2026-10-29T14:24:01+00:00",
+   "price": 12.99,
+   "product": "Mini Tin",
+   "shop": "Magic Madhouse",
+   "title": "30th Celebration Mini Tin Day - Moltres"
+  },
+  "https://magicmadhouse.co.uk/pokemon-30th-celebration-mini-tin-day-pikachu": {
+   "alertable": false,
+   "available": false,
+   "last_change": "2026-10-29T14:24:01+00:00",
+   "price": 12.99,
+   "product": "Mini Tin",
+   "shop": "Magic Madhouse",
+   "title": "30th Celebration Mini Tin Day - Pikachu"
+  },
+  "https://magicmadhouse.co.uk/pokemon-30th-celebration-mini-tin-night-greninja": {
+   "alertable": false,
+   "available": false,
+   "last_change": "2026-10-29T14:24:01+00:00",
+   "price": 12.99,
+   "product": "Mini Tin",
+   "shop": "Magic Madhouse",
+   "title": "30th Celebration Mini Tin Night - Greninja"
+  },
+  "https://magicmadhouse.co.uk/pokemon-30th-celebration-mini-tin-night-mewtwo": {
+   "alertable": false,
+   "available": false,
+   "last_change": "2026-10-29T14:24:01+00:00",
+   "price": 12.99,
+   "product": "Mini Tin",
+   "shop": "Magic Madhouse",
+   "title": "30th Celebration Mini Tin Night - Mewtwo"
+  },
+  "https://magicmadhouse.co.uk/pokemon-30th-celebration-mini-tin-night-pikachu": {
+   "alertable": false,
+   "available": false,
+   "last_change": "2026-10-29T14:24:01+00:00",
+   "price": 12.99,
+   "product": "Mini Tin",
+   "shop": "Magic Madhouse",
+   "title": "30th Celebration Mini Tin Night - Pikachu"
+  },
+  "https://magicmadhouse.co.uk/pokemon-30th-celebration-mini-tin-night-umbreon": {
+   "alertable": false,
+   "available": false,
+   "last_change": "2026-10-29T14:24:01+00:00",
+   "price": 12.99,
+   "product": "Mini Tin",
+   "shop": "Magic Madhouse",
+   "title": "30th Celebration Mini Tin Night - Umbreon"
+  },
+  "https://magicmadhouse.co.uk/pokemon-30th-celebration-mini-tin-night-zapdos": {
+   "alertable": false,
+   "available": false,
+   "last_change": "2026-10-29T14:24:01+00:00",
+   "price": 12.99,
+   "product": "Mini Tin",
+   "shop": "Magic Madhouse",
+   "title": "30th Celebration Mini Tin Night - Zapdos"
+  },
+  "https://magicmadhouse.co.uk/pokemon-30th-celebration-poster-collection": {
+   "alertable": false,
+   "available": false,
+   "last_change": "2026-10-29T14:24:01+00:00",
+   "price": 19.99,
+   "product": "Poster Collection",
+   "shop": "Magic Madhouse",
+   "title": "30th Celebration Poster Collection"
+  },
+  "https://magicmadhouse.co.uk/pokemon-30th-celebration-sylveon-ex-collection-box": {
+   "alertable": false,
+   "available": false,
+   "last_change": "2026-10-29T14:24:01+00:00",
+   "price": 21.99,
+   "product": "ex Box",
+   "shop": "Magic Madhouse",
+   "title": "30th Celebration Sylveon ex Collection Box"
+  },
+  "https://magicmadhouse.co.uk/pokemon-30th-celebration-tech-sticker-collection-alolan-exeggutor": {
+   "alertable": false,
+   "available": false,
+   "last_change": "2026-10-29T14:24:01+00:00",
+   "price": 16.99,
+   "product": "Tech Sticker Collection",
+   "shop": "Magic Madhouse",
+   "title": "30th Celebration Tech Sticker Collection - Alolan Exeggutor"
+  },
+  "https://magicmadhouse.co.uk/pokemon-30th-celebration-tech-sticker-collection-lucario": {
+   "alertable": false,
+   "available": false,
+   "last_change": "2026-10-29T14:24:01+00:00",
+   "price": 16.99,
+   "product": "Tech Sticker Collection",
+   "shop": "Magic Madhouse",
+   "title": "30th Celebration Tech Sticker Collection - Lucario"
+  },
+  "https://magicmadhouse.co.uk/pokemon-30th-celebration-tin-greninja-ex": {
+   "alertable": false,
+   "available": false,
+   "last_change": "2026-10-29T14:24:01+00:00",
+   "price": 21.99,
+   "product": "ex Tin",
+   "shop": "Magic Madhouse",
+   "title": "30th Celebration Tin Greninja ex"
+  },
+  "https://magicmadhouse.co.uk/pokemon-30th-celebration-tin-sylveon-ex": {
+   "alertable": false,
+   "available": false,
+   "last_change": "2026-10-29T14:24:01+00:00",
+   "price": 21.99,
+   "product": "ex Tin",
+   "shop": "Magic Madhouse",
+   "title": "30th Celebration Tin Sylveon ex"
+  },
+  "https://obsidia-tcg.store/products/pokemon-tcg-30th-anniversary-booster-pack": {
+   "alertable": true,
+   "available": true,
+   "last_change": "2026-10-29T14:23:06+00:00",
+   "price": 4.99,
+   "product": "Booster Pack",
+   "shop": "Obsidia TCG",
+   "title": "Pokemon TCG: 30th Celebration - Booster Pack"
+  },
+  "https://obsidia-tcg.store/products/pokemon-tcg-30th-celebration-2-pack-blister": {
+   "alertable": false,
+   "available": false,
+   "last_change": "2026-10-29T14:23:06+00:00",
+   "price": 9.95,
+   "product": "2-Pack Blister",
+   "shop": "Obsidia TCG",
+   "title": "Pokemon TCG: 30th Celebration 2-Pack Blister"
+  },
+  "https://obsidia-tcg.store/products/pokemon-tcg-30th-celebration-battle-deck-espeon-ex": {
+   "alertable": false,
+   "available": false,
+   "last_change": "2026-10-29T14:23:06+00:00",
+   "price": 19.95,
+   "product": "Battle Deck",
+   "shop": "Obsidia TCG",
+   "title": "Pokemon TCG: 30th Celebration - Battle Deck Espeon ex"
+  },
+  "https://obsidia-tcg.store/products/pokemon-tcg-30th-celebration-battle-deck-umbreon-ex": {
+   "alertable": false,
+   "available": false,
+   "last_change": "2026-10-29T14:23:06+00:00",
+   "price": 19.95,
+   "product": "Battle Deck",
+   "shop": "Obsidia TCG",
+   "title": "Pokemon TCG: 30th Celebration - Battle Deck Umbreon ex"
+  },
+  "https://obsidia-tcg.store/products/pokemon-tcg-30th-celebration-binder-collection": {
+   "alertable": false,
+   "available": false,
+   "last_change": "2026-10-29T14:23:06+00:00",
+   "price": 37.95,
+   "product": "Binder Collection",
+   "shop": "Obsidia TCG",
+   "title": "Pokemon TCG: 30th Celebration - Binder Collection"
+  },
+  "https://obsidia-tcg.store/products/pokemon-tcg-30th-celebration-booster-bundle": {
+   "alertable": false,
+   "available": false,
+   "last_change": "2026-10-29T14:23:06+00:00",
+   "price": 29.95,
+   "product": "Booster Bundle",
+   "shop": "Obsidia TCG",
+   "title": "Pokemon TCG: 30th Celebration - Booster Bundle"
+  },
+  "https://obsidia-tcg.store/products/pokemon-tcg-30th-celebration-day-mini-tins": {
+   "alertable": false,
+   "available": false,
+   "last_change": "2026-10-29T14:23:06+00:00",
+   "price": 9.95,
+   "product": "Mini Tin",
+   "shop": "Obsidia TCG",
+   "title": "Pokemon TCG: 30th Celebration - Day Mini Tin"
+  },
+  "https://obsidia-tcg.store/products/pokemon-tcg-30th-celebration-ditto-premium-collection": {
+   "alertable": false,
+   "available": false,
+   "last_change": "2026-10-29T14:23:06+00:00",
+   "price": 39.95,
+   "product": "Ditto Premium Collection",
+   "shop": "Obsidia TCG",
+   "title": "Pokemon TCG: 30th Celebration - Ditto Premium Collection"
+  },
+  "https://obsidia-tcg.store/products/pokemon-tcg-30th-celebration-elite-trainer-box": {
+   "alertable": false,
+   "available": false,
+   "last_change": "2026-10-29T14:23:06+00:00",
+   "price": 54.95,
+   "product": "Elite Trainer Box",
+   "shop": "Obsidia TCG",
+   "title": "Pokemon TCG: 30th Celebration - Elite Trainer Box"
+  },
+  "https://obsidia-tcg.store/products/pokemon-tcg-30th-celebration-figure-collection-mew": {
+   "alertable": false,
+   "available": false,
+   "last_change": "2026-10-29T14:23:06+00:00",
+   "price": 29.95,
+   "product": "Figure Collection",
+   "shop": "Obsidia TCG",
+   "title": "Pokemon TCG: 30th Celebration - Figure Collection Mew"
+  },
+  "https://obsidia-tcg.store/products/pokemon-tcg-30th-celebration-figure-collection-mewtwo": {
+   "alertable": false,
+   "available": false,
+   "last_change": "2026-10-29T14:23:06+00:00",
+   "price": 29.95,
+   "product": "Figure Collection",
+   "shop": "Obsidia TCG",
+   "title": "Pokemon TCG: 30th Celebration - Figure Collection Mewtwo"
+  },
+  "https://obsidia-tcg.store/products/pokemon-tcg-30th-celebration-greninja-ex-box": {
+   "alertable": false,
+   "available": false,
+   "last_change": "2026-10-29T14:23:06+00:00",
+   "price": 21.95,
+   "product": "ex Box",
+   "shop": "Obsidia TCG",
+   "title": "Pokemon TCG: 30th Celebration - Greninja ex Box"
+  },
+  "https://obsidia-tcg.store/products/pokemon-tcg-30th-celebration-greninja-ex-tin": {
+   "alertable": false,
+   "available": false,
+   "last_change": "2026-10-29T14:23:06+00:00",
+   "price": 19.99,
+   "product": "ex Tin",
+   "shop": "Obsidia TCG",
+   "title": "Pokemon TCG: 30th Celebration - Greninja ex Tin"
+  },
+  "https://obsidia-tcg.store/products/pokemon-tcg-30th-celebration-knock-out-collection": {
+   "alertable": false,
+   "available": false,
+   "last_change": "2026-10-29T14:23:06+00:00",
+   "price": 9.95,
+   "product": "Knock Out Collection",
+   "shop": "Obsidia TCG",
+   "title": "Pokemon TCG: 30th Celebration - Knock Out Collection"
+  },
+  "https://obsidia-tcg.store/products/pokemon-tcg-30th-celebration-night-mini-tins": {
+   "alertable": false,
+   "available": false,
+   "last_change": "2026-10-29T14:23:06+00:00",
+   "price": 9.95,
+   "product": "Mini Tin",
+   "shop": "Obsidia TCG",
+   "title": "Pokemon TCG: 30th Celebration - Night Mini Tin"
+  },
+  "https://obsidia-tcg.store/products/pokemon-tcg-30th-celebration-poster-collection": {
+   "alertable": false,
+   "available": false,
+   "last_change": "2026-10-29T14:23:06+00:00",
+   "price": 19.95,
+   "product": "Poster Collection",
+   "shop": "Obsidia TCG",
+   "title": "Pokemon TCG: 30th Celebration - Poster Collection"
+  },
+  "https://obsidia-tcg.store/products/pokemon-tcg-30th-celebration-sylveon-ex-box": {
+   "alertable": false,
+   "available": false,
+   "last_change": "2026-10-29T14:23:06+00:00",
+   "price": 21.95,
+   "product": "ex Box",
+   "shop": "Obsidia TCG",
+   "title": "Pokemon TCG: 30th Celebration - Sylveon ex Box"
+  },
+  "https://obsidia-tcg.store/products/pokemon-tcg-30th-celebration-sylveon-ex-tin": {
+   "alertable": false,
+   "available": false,
+   "last_change": "2026-10-29T14:23:06+00:00",
+   "price": 19.99,
+   "product": "ex Tin",
+   "shop": "Obsidia TCG",
+   "title": "Pokemon TCG: 30th Celebration - Sylveon ex Tin"
+  },
+  "https://obsidia-tcg.store/products/pokemon-tcg-30th-celebration-tech-sticker-collection": {
+   "alertable": false,
+   "available": false,
+   "last_change": "2026-10-29T14:23:06+00:00",
+   "price": 14.95,
+   "product": "Tech Sticker Collection",
+   "shop": "Obsidia TCG",
+   "title": "Pokemon TCG: 30th Celebration - Tech Sticker Collection"
+  },
+  "https://obsidia-tcg.store/products/pokemon-tcg-30th-celebration-ultra-premium-collection-day": {
+   "alertable": false,
+   "available": false,
+   "last_change": "2026-10-29T14:23:06+00:00",
+   "price": 169.95,
+   "product": "Ultra-Premium Collection",
+   "shop": "Obsidia TCG",
+   "title": "Pokemon TCG: 30th Celebration - Ultra Premium Collection Day"
+  },
+  "https://obsidia-tcg.store/products/pokemon-tcg-30th-celebration-ultra-premium-collection-night": {
+   "alertable": false,
+   "available": false,
+   "last_change": "2026-10-29T14:23:06+00:00",
+   "price": 169.95,
+   "product": "Ultra-Premium Collection",
+   "shop": "Obsidia TCG",
+   "title": "Pokemon TCG: 30th Celebration - Ultra Premium Collection Night"
+  },
+  "https://totalcards.net/products/pokemon-30th-celebration-2-pack-blister": {
+   "alertable": false,
+   "available": false,
+   "last_change": "2026-10-29T14:23:08+00:00",
+   "price": 0.0,
+   "product": "2-Pack Blister",
+   "shop": "Total Cards",
+   "title": "Pokemon - 30th Celebration - 2-Pack Blister"
+  },
+  "https://totalcards.net/products/pokemon-30th-celebration-30th-celebration-battle-deck-espeon-ex": {
+   "alertable": false,
+   "available": false,
+   "last_change": "2026-10-29T14:23:08+00:00",
+   "price": 19.95,
+   "product": "Battle Deck",
+   "shop": "Total Cards",
+   "title": "Pokemon - 30th Celebration - 30th Celebration Battle Deck - Espeon ex"
+  },
+  "https://totalcards.net/products/pokemon-30th-celebration-30th-celebration-battle-deck-umbreon-ex": {
+   "alertable": false,
+   "available": false,
+   "last_change": "2026-10-29T14:23:08+00:00",
+   "price": 19.95,
+   "product": "Battle Deck",
+   "shop": "Total Cards",
+   "title": "Pokemon - 30th Celebration - 30th Celebration Battle Deck - Umbreon ex"
+  },
+  "https://totalcards.net/products/pokemon-30th-celebration-binder-collection": {
+   "alertable": false,
+   "available": false,
+   "last_change": "2026-10-29T14:23:08+00:00",
+   "price": 49.95,
+   "product": "Binder Collection",
+   "shop": "Total Cards",
+   "title": "Pokemon - 30th Celebration - Binder Collection"
+  },
+  "https://totalcards.net/products/pokemon-30th-celebration-booster-bundle": {
+   "alertable": false,
+   "available": false,
+   "last_change": "2026-10-29T14:23:08+00:00",
+   "price": 0.0,
+   "product": "Booster Bundle",
+   "shop": "Total Cards",
+   "title": "Pokemon - 30th Celebration - Booster Bundle"
+  },
+  "https://totalcards.net/products/pokemon-30th-celebration-booster-pack": {
+   "alertable": false,
+   "available": false,
+   "last_change": "2026-10-29T14:23:08+00:00",
+   "price": 10.95,
+   "product": "Booster Pack",
+   "shop": "Total Cards",
+   "title": "Pokemon - 30th Celebration - Booster Pack"
+  },
+  "https://totalcards.net/products/pokemon-30th-celebration-ditto-premium-collection": {
+   "alertable": false,
+   "available": false,
+   "last_change": "2026-10-29T14:23:08+00:00",
+   "price": 0.0,
+   "product": "Ditto Premium Collection",
+   "shop": "Total Cards",
+   "title": "Pokemon - 30th Celebration - Ditto Premium Collection"
+  },
+  "https://totalcards.net/products/pokemon-30th-celebration-elite-trainer-box": {
+   "alertable": false,
+   "available": false,
+   "last_change": "2026-10-29T14:23:08+00:00",
+   "price": 52.45,
+   "product": "Elite Trainer Box",
+   "shop": "Total Cards",
+   "title": "Pokemon - 30th Celebration - Elite Trainer Box"
+  },
+  "https://totalcards.net/products/pokemon-30th-celebration-figure-collection-mew": {
+   "alertable": false,
+   "available": false,
+   "last_change": "2026-10-29T14:23:08+00:00",
+   "price": 0.0,
+   "product": "Figure Collection",
+   "shop": "Total Cards",
+   "title": "Pokemon - 30th Celebration - Figure Collection - Mew"
+  },
+  "https://totalcards.net/products/pokemon-30th-celebration-figure-collection-mewtwo": {
+   "alertable": false,
+   "available": false,
+   "last_change": "2026-10-29T14:23:08+00:00",
+   "price": 0.0,
+   "product": "Figure Collection",
+   "shop": "Total Cards",
+   "title": "Pokemon - 30th Celebration - Figure Collection - Mewtwo"
+  },
+  "https://totalcards.net/products/pokemon-30th-celebration-greninja-ex-box": {
+   "alertable": false,
+   "available": false,
+   "last_change": "2026-10-29T14:23:08+00:00",
+   "price": 0.0,
+   "product": "ex Box",
+   "shop": "Total Cards",
+   "title": "Pokemon - 30th Celebration - Greninja ex Box"
+  },
+  "https://totalcards.net/products/pokemon-30th-celebration-knock-out-collection": {
+   "alertable": false,
+   "available": false,
+   "last_change": "2026-10-29T14:23:08+00:00",
+   "price": 0.0,
+   "product": "Knock Out Collection",
+   "shop": "Total Cards",
+   "title": "Pokemon - 30th Celebration - Knock Out Collection"
+  },
+  "https://totalcards.net/products/pokemon-30th-celebration-mini-tin-espeon": {
+   "alertable": false,
+   "available": false,
+   "last_change": "2026-10-29T14:23:08+00:00",
+   "price": 18.95,
+   "product": "Mini Tin",
+   "shop": "Total Cards",
+   "title": "Pokemon - 30th Celebration - Mini Tin - Day - Espeon"
+  },
+  "https://totalcards.net/products/pokemon-30th-celebration-mini-tin-greninja": {
+   "alertable": false,
+   "available": false,
+   "last_change": "2026-10-29T14:23:08+00:00",
+   "price": 18.95,
+   "product": "Mini Tin",
+   "shop": "Total Cards",
+   "title": "Pokemon - 30th Celebration - Mini Tin - Night - Greninja"
+  },
+  "https://totalcards.net/products/pokemon-30th-celebration-mini-tin-lapras": {
+   "alertable": false,
+   "available": false,
+   "last_change": "2026-10-29T14:23:08+00:00",
+   "price": 18.95,
+   "product": "Mini Tin",
+   "shop": "Total Cards",
+   "title": "Pokemon - 30th Celebration - Mini Tin - Day - Lapras"
+  },
+  "https://totalcards.net/products/pokemon-30th-celebration-mini-tin-mew": {
+   "alertable": false,
+   "available": false,
+   "last_change": "2026-10-29T14:23:08+00:00",
+   "price": 18.95,
+   "product": "Mini Tin",
+   "shop": "Total Cards",
+   "title": "Pokemon - 30th Celebration - Mini Tin - Day - Mew"
+  },
+  "https://totalcards.net/products/pokemon-30th-celebration-mini-tin-mewtwo": {
+   "alertable": false,
+   "available": false,
+   "last_change": "2026-10-29T14:23:08+00:00",
+   "price": 18.95,
+   "product": "Mini Tin",
+   "shop": "Total Cards",
+   "title": "Pokemon - 30th Celebration - Mini Tin - Night - Mewtwo"
+  },
+  "https://totalcards.net/products/pokemon-30th-celebration-mini-tin-moltres": {
+   "alertable": false,
+   "available": false,
+   "last_change": "2026-10-29T14:23:08+00:00",
+   "price": 18.95,
+   "product": "Mini Tin",
+   "shop": "Total Cards",
+   "title": "Pokemon - 30th Celebration - Mini Tin - Day - Moltres"
+  },
+  "https://totalcards.net/products/pokemon-30th-celebration-mini-tin-night-pikachu": {
+   "alertable": false,
+   "available": false,
+   "last_change": "2026-10-29T14:23:08+00:00",
+   "price": 18.95,
+   "product": "Mini Tin",
+   "shop": "Total Cards",
+   "title": "Pokemon - 30th Celebration - Mini Tin - Night - Pikachu"
+  },
+  "https://totalcards.net/products/pokemon-30th-celebration-mini-tin-night-umbreon": {
+   "alertable": false,
+   "available": false,
+   "last_change": "2026-10-29T14:23:08+00:00",
+   "price": 18.95,
+   "product": "Mini Tin",
+   "shop": "Total Cards",
+   "title": "Pokemon - 30th Celebration - Mini Tin - Night - Umbreon"
+  },
+  "https://totalcards.net/products/pokemon-30th-celebration-mini-tin-night-zapdos": {
+   "alertable": false,
+   "available": false,
+   "last_change": "2026-10-29T14:23:08+00:00",
+   "price": 18.95,
+   "product": "Mini Tin",
+   "shop": "Total Cards",
+   "title": "Pokemon - 30th Celebration - Mini Tin - Night - Zapdos"
+  },
+  "https://totalcards.net/products/pokemon-30th-celebration-mini-tin-pikachu": {
+   "alertable": false,
+   "available": false,
+   "last_change": "2026-10-29T14:23:08+00:00",
+   "price": 18.95,
+   "product": "Mini Tin",
+   "shop": "Total Cards",
+   "title": "Pokemon - 30th Celebration - Mini Tin - Day - Pikachu"
+  },
+  "https://totalcards.net/products/pokemon-30th-celebration-poster-collection": {
+   "alertable": false,
+   "available": false,
+   "last_change": "2026-10-29T14:23:08+00:00",
+   "price": 24.95,
+   "product": "Poster Collection",
+   "shop": "Total Cards",
+   "title": "Pokemon - 30th Celebration - Poster Collection"
+  },
+  "https://totalcards.net/products/pokemon-30th-celebration-sylveon-ex-box": {
+   "alertable": false,
+   "available": false,
+   "last_change": "2026-10-29T14:23:08+00:00",
+   "price": 0.0,
+   "product": "ex Box",
+   "shop": "Total Cards",
+   "title": "Pokemon - 30th Celebration - Sylveon ex Box"
+  },
+  "https://totalcards.net/products/pokemon-30th-celebration-tech-sticker-collection-alolan-exeggutor": {
+   "alertable": false,
+   "available": false,
+   "last_change": "2026-10-29T14:23:08+00:00",
+   "price": 24.95,
+   "product": "Tech Sticker Collection",
+   "shop": "Total Cards",
+   "title": "Pokemon - 30th Celebration - Tech Sticker Collection - Alolan Exeggutor"
+  },
+  "https://totalcards.net/products/pokemon-30th-celebration-tech-sticker-collection-lucario": {
+   "alertable": false,
+   "available": false,
+   "last_change": "2026-10-29T14:23:08+00:00",
+   "price": 24.95,
+   "product": "Tech Sticker Collection",
+   "shop": "Total Cards",
+   "title": "Pokemon - 30th Celebration - Tech Sticker Collection - Lucario"
+  },
+  "https://totalcards.net/products/pokemon-30th-celebration-tin-greninja-ex": {
+   "alertable": false,
+   "available": false,
+   "last_change": "2026-10-29T14:23:08+00:00",
+   "price": 0.0,
+   "product": "ex Tin",
+   "shop": "Total Cards",
+   "title": "Pokemon - 30th Celebration - Tin - Greninja ex"
+  },
+  "https://totalcards.net/products/pokemon-30th-celebration-tin-sylveon-ex": {
+   "alertable": false,
+   "available": false,
+   "last_change": "2026-10-29T14:23:08+00:00",
+   "price": 0.0,
+   "product": "ex Tin",
+   "shop": "Total Cards",
+   "title": "Pokemon - 30th Celebration - Tin - Sylveon ex"
+  },
+  "https://totalcards.net/products/pokemon-30th-celebration-ultra-premium-collection-day": {
+   "alertable": false,
+   "available": false,
+   "last_change": "2026-10-29T14:23:08+00:00",
+   "price": 0.0,
+   "product": "Ultra-Premium Collection",
+   "shop": "Total Cards",
+   "title": "Pokemon - 30th Celebration - Ultra Premium Collection - Day"
+  },
+  "https://totalcards.net/products/pokemon-30th-celebration-ultra-premium-collection-night": {
+   "alertable": false,
+   "available": false,
+   "last_change": "2026-10-29T14:23:08+00:00",
+   "price": 0.0,
+   "product": "Ultra-Premium Collection",
+   "shop": "Total Cards",
+   "title": "Pokemon - 30th Celebration - Ultra Premium Collection - Night"
+  },
+  "https://www.titancards.co.uk/products/pokemon-30th-anniversary-elite-trainer-box": {
+   "alertable": false,
+   "available": false,
+   "last_change": "2026-10-29T14:23:09+00:00",
+   "price": 139.99,
+   "product": "Elite Trainer Box",
+   "shop": "Titan Cards",
+   "title": "Pokémon TCG: 30th Anniversary Elite Trainer Box"
+  },
+  "https://www.titancards.co.uk/products/pokemon-tcg-30th-celebration-ex-box-sylveon": {
+   "alertable": false,
+   "available": true,
+   "last_change": "2026-10-29T14:23:09+00:00",
+   "price": 49.99,
+   "product": "ex Box",
+   "shop": "Titan Cards",
+   "title": "Pokémon TCG: 30th Celebration Pokémon ex Box — Sylveon ex"
+  },
+  "https://www.titancards.co.uk/products/pokemon-tcg-30th-celebration-mini-tins-sealed-display": {
+   "alertable": false,
+   "available": true,
+   "last_change": "2026-10-29T14:23:09+00:00",
+   "price": 229.99,
+   "product": "Mini Tin display (10)",
+   "shop": "Titan Cards",
+   "title": "Pokémon TCG: 30th Celebration Mini Tins — Sealed Display / CDU (10 Tins)"
+  },
+  "https://www.zatu.co.uk/products/pokemon-tcg-30th-celebration-2-pack-blister": {
+   "alertable": false,
+   "available": false,
+   "last_change": "2026-10-29T14:23:21+00:00",
+   "price": 29.99,
+   "product": "2-Pack Blister",
+   "shop": "Zatu",
+   "title": "Pokemon TCG: 30th Celebration - 2 pack Blister"
+  },
+  "https://www.zatu.co.uk/products/pokemon-tcg-30th-celebration-elite-trainer-box": {
+   "alertable": false,
+   "available": true,
+   "last_change": "2026-10-29T14:23:21+00:00",
+   "price": 169.99,
+   "product": "Elite Trainer Box",
+   "shop": "Zatu",
+   "title": "Pokemon TCG: 30th Celebration - Elite Trainer Box"
+  },
+  "https://www.zatu.co.uk/products/pokemon-tcg-30th-celebration-mini-tin-espeon": {
+   "alertable": false,
+   "available": false,
+   "last_change": "2026-10-29T14:23:21+00:00",
+   "price": 29.99,
+   "product": "Mini Tin",
+   "shop": "Zatu",
+   "title": "Pokemon TCG: 30th Celebration - Mini Tin - Espeon"
+  },
+  "https://www.zatu.co.uk/products/pokemon-tcg-30th-celebration-mini-tin-greninja": {
+   "alertable": false,
+   "available": true,
+   "last_change": "2026-10-29T14:23:21+00:00",
+   "price": 29.99,
+   "product": "Mini Tin",
+   "shop": "Zatu",
+   "title": "Pokemon TCG: 30th Celebration - Mini Tin - Greninja"
+  },
+  "https://www.zatu.co.uk/products/pokemon-tcg-30th-celebration-mini-tin-lapras": {
+   "alertable": false,
+   "available": false,
+   "last_change": "2026-10-29T14:23:21+00:00",
+   "price": 29.99,
+   "product": "Mini Tin",
+   "shop": "Zatu",
+   "title": "Pokemon TCG: 30th Celebration - Mini Tin - Lapras"
+  },
+  "https://www.zatu.co.uk/products/pokemon-tcg-30th-celebration-mini-tin-mew": {
+   "alertable": false,
+   "available": false,
+   "last_change": "2026-10-29T14:23:21+00:00",
+   "price": 29.99,
+   "product": "Mini Tin",
+   "shop": "Zatu",
+   "title": "Pokemon TCG: 30th Celebration - Mini Tin - Mew"
+  },
+  "https://www.zatu.co.uk/products/pokemon-tcg-30th-celebration-mini-tin-mewtwo": {
+   "alertable": false,
+   "available": false,
+   "last_change": "2026-10-29T14:23:21+00:00",
+   "price": 29.99,
+   "product": "Mini Tin",
+   "shop": "Zatu",
+   "title": "Pokemon TCG: 30th Celebration - Mini Tin - Mewtwo"
+  },
+  "https://www.zatu.co.uk/products/pokemon-tcg-30th-celebration-mini-tin-moltres": {
+   "alertable": false,
+   "available": false,
+   "last_change": "2026-10-29T14:23:21+00:00",
+   "price": 29.99,
+   "product": "Mini Tin",
+   "shop": "Zatu",
+   "title": "Pokemon TCG: 30th Celebration - Mini Tin - Moltres"
+  },
+  "https://www.zatu.co.uk/products/pokemon-tcg-30th-celebration-mini-tin-pikachu": {
+   "alertable": false,
+   "available": false,
+   "last_change": "2026-10-29T14:23:21+00:00",
+   "price": 29.99,
+   "product": "Mini Tin",
+   "shop": "Zatu",
+   "title": "Pokemon TCG: 30th Celebration - Mini Tin - Pikachu"
+  },
+  "https://www.zatu.co.uk/products/pokemon-tcg-30th-celebration-mini-tin-umbreon": {
+   "alertable": false,
+   "available": false,
+   "last_change": "2026-10-29T14:23:21+00:00",
+   "price": 29.99,
+   "product": "Mini Tin",
+   "shop": "Zatu",
+   "title": "Pokemon TCG: 30th Celebration - Mini Tin - Umbreon"
+  },
+  "https://www.zatu.co.uk/products/pokemon-tcg-30th-celebration-mini-tin-vivillon": {
+   "alertable": false,
+   "available": true,
+   "last_change": "2026-10-29T14:23:21+00:00",
+   "price": 29.99,
+   "product": "Mini Tin",
+   "shop": "Zatu",
+   "title": "Pokemon TCG: 30th Celebration - Mini Tin - Vivillon"
+  },
+  "https://www.zatu.co.uk/products/pokemon-tcg-30th-celebration-mini-tin-zapdos": {
+   "alertable": false,
+   "available": true,
+   "last_change": "2026-10-29T14:23:21+00:00",
+   "price": 29.99,
+   "product": "Mini Tin",
+   "shop": "Zatu",
+   "title": "Pokemon TCG: 30th Celebration - Mini Tin - Zapdos"
+  },
+  "https://www.zatu.co.uk/products/pokemon-tcg-battle-deck-30th-celebration-victini": {
+   "alertable": false,
+   "available": false,
+   "last_change": "2026-10-29T14:23:21+00:00",
+   "price": 19.99,
+   "product": "Battle Deck",
+   "shop": "Zatu",
+   "title": "Pokémon TCG: Battle Deck- 30th Celebration - Victini"
+  },
+  "https://www.zatu.co.uk/products/pokemon-tcg-battle-deck-30th-celebration-zeraora": {
+   "alertable": false,
+   "available": false,
+   "last_change": "2026-10-29T14:23:21+00:00",
+   "price": 19.99,
+   "product": "Battle Deck",
+   "shop": "Zatu",
+   "title": "Pokémon TCG: Battle Deck - 30th Celebration - Zeraora"
+  },
+  "https://www.zatu.co.uk/products/pokemon-tcg-ditto-premium-collection-30th-celebration": {
+   "alertable": false,
+   "available": false,
+   "last_change": "2026-10-29T14:23:21+00:00",
+   "price": 39.99,
+   "product": "Ditto Premium Collection",
+   "shop": "Zatu",
+   "title": "Pokémon TCG: Ditto Premium Collection - 30th Celebration"
+  },
+  "https://www.zatu.co.uk/products/pokemon-tcg-figure-collection-mew-30th-celebration": {
+   "alertable": false,
+   "available": false,
+   "last_change": "2026-10-29T14:23:21+00:00",
+   "price": 29.99,
+   "product": "Figure Collection",
+   "shop": "Zatu",
+   "title": "Pokémon TCG: Figure Collection Mew 30th Celebration"
+  },
+  "https://www.zatu.co.uk/products/pokemon-tcg-figure-collection-mewtwo-30th-celebration": {
+   "alertable": false,
+   "available": false,
+   "last_change": "2026-10-29T14:23:21+00:00",
+   "price": 29.99,
+   "product": "Figure Collection",
+   "shop": "Zatu",
+   "title": "Pokémon TCG: Figure Collection Mewtwo 30th Celebration"
+  },
+  "https://www.zatu.co.uk/products/pokemon-tcg-ultra-premium-collection-day-30th-celebration": {
+   "alertable": false,
+   "available": false,
+   "last_change": "2026-10-29T14:23:21+00:00",
+   "price": 169.99,
+   "product": "Ultra-Premium Collection",
+   "shop": "Zatu",
+   "title": "Pokémon TCG: Ultra Premium Collection - Day 30th Celebration"
+  },
+  "https://www.zatu.co.uk/products/pokemon-tcg-ultra-premium-collection-night-30th-celebration": {
+   "alertable": false,
+   "available": false,
+   "last_change": "2026-10-29T14:23:21+00:00",
+   "price": 169.99,
+   "product": "Ultra-Premium Collection",
+   "shop": "Zatu",
+   "title": "Pokémon TCG: Ultra Premium Collection - Night 30th Celebration"
+  }
+ },
+ "shops": {
+  "Magic Madhouse": {
+   "fails": 0,
+   "flagged": false
+  },
+  "Obsidia TCG": {
+   "fails": 0,
+   "flagged": false
+  },
+  "Titan Cards": {
+   "fails": 0,
+   "flagged": false
+  },
+  "Total Cards": {
+   "fails": 0,
+   "flagged": false
+  },
+  "Zatu": {
+   "fails": 0,
+   "flagged": false
+  }
+ },
+ "updated": "2026-10-29T14:24:01+00:00"
+}
