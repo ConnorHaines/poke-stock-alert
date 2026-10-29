@@ -350,6 +350,7 @@ def main():
     deadline = time.time() + args.loop_minutes * 60
     lock = threading.Lock()
     last_commit = [0.0]
+    unsaved = [False]
 
     def check(shop):
         try:
@@ -361,9 +362,11 @@ def main():
             if changed:
                 state["updated"] = now().isoformat(timespec="seconds")
                 save_state(state)
-                if args.git_commit and time.time() - last_commit[0] > 300:
-                    git_sync("Update stock state")
-                    last_commit[0] = time.time()
+                unsaved[0] = True
+            if args.git_commit and unsaved[0] and time.time() - last_commit[0] > 300:
+                git_sync("Update stock state")
+                last_commit[0] = time.time()
+                unsaved[0] = False
         return alerts
 
     # First pass checks every shop together, so a brand-new setup can send one
