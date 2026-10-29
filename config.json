@@ -1,0 +1,91 @@
+{
+ "interval_seconds": 120,
+ "warn_after_failures": 5,
+ "ntfy": {
+  "server": "https://ntfy.sh",
+  "topic": "",
+  "priority": 4
+ },
+ "filters": {
+  "must_match": "30th",
+  "must_be_pokemon": "pok[eé]mon",
+  "exclude": "japanese|\\[jp\\]|\\bjp\\b|chinese|korean|simplified|traditional|thai|indonesian|\\bcase\\b|\\bempty\\b|sleeves?\\b|playmat|deck[ -]?box|code[ -]card|art[ -]card|sticker(?![ -]collection)|graded|\\bpsa\\b|\\bcgc\\b|single[ -]card|\\b\\d{1,3}/\\d{2,3}\\b|bundle of|job lot"
+ },
+ "min_price_fraction": 0.3,
+ "products": [
+  {"name": "Pokémon Center Elite Trainer Box", "match": "pok[eé]mon cent(er|re).*elite trainer|elite trainer.*pok[eé]mon cent(er|re)", "max_price": 85, "priority": 5},
+  {"name": "Elite Trainer Box", "match": "elite trainer box|\\betb\\b", "max_price": 65, "priority": 5},
+  {"name": "Ultra-Premium Collection", "match": "ultra[- ]?premium", "max_price": 200},
+  {"name": "Ditto Premium Collection", "match": "ditto premium", "max_price": 52},
+  {"name": "Figure Collection", "match": "figure collection", "max_price": 39},
+  {"name": "Binder Collection", "match": "binder collection", "max_price": 50},
+  {"name": "Booster Bundle", "match": "booster bundle", "max_price": 33, "priority": 5},
+  {"name": "Mini Tin display (10)", "match": "mini tins?.*(display|cdu|set of|10 ?x|x ?10|10 tins)", "max_price": 130},
+  {"name": "Mini Tin", "match": "mini tin", "max_price": 17},
+  {"name": "ex Tin", "match": "\\btin\\b", "max_price": 29},
+  {"name": "ex Box", "match": "ex (collection )?box", "max_price": 29},
+  {"name": "Battle Deck", "match": "battle deck", "max_price": 26},
+  {"name": "Poster Collection", "match": "poster collection", "max_price": 26},
+  {"name": "Tech Sticker Collection", "match": "sticker collection", "max_price": 23},
+  {"name": "Knock Out Collection", "match": "knock ?out collection", "max_price": 14},
+  {"name": "2-Pack Blister", "match": "blister", "max_price": 14},
+  {"name": "Booster Pack", "match": "booster pack", "max_price": 7}
+ ],
+ "shops": [
+  {
+   "name": "Magic Madhouse",
+   "type": "jsonld_pages",
+   "interval_seconds": 300,
+   "urls": [
+    "https://magicmadhouse.co.uk/pokemon-30th-celebration-elite-trainer-box",
+    "https://magicmadhouse.co.uk/pokemon-30th-celebration-booster-pack",
+    "https://magicmadhouse.co.uk/pokemon-30th-celebration-2-pack-blister-eevee",
+    "https://magicmadhouse.co.uk/pokemon-30th-celebration-sylveon-ex-collection-box",
+    "https://magicmadhouse.co.uk/pokemon-30th-celebration-greninja-ex-collection-box",
+    "https://magicmadhouse.co.uk/pokemon-30th-celebration-tin-sylveon-ex",
+    "https://magicmadhouse.co.uk/pokemon-30th-celebration-tin-greninja-ex",
+    "https://magicmadhouse.co.uk/pokemon-30th-celebration-binder-collection",
+    "https://magicmadhouse.co.uk/pokemon-30th-celebration-poster-collection",
+    "https://magicmadhouse.co.uk/pokemon-30th-celebration-tech-sticker-collection-lucario",
+    "https://magicmadhouse.co.uk/pokemon-30th-celebration-tech-sticker-collection-alolan-exeggutor",
+    "https://magicmadhouse.co.uk/pokemon-30th-celebration-mini-tin-day-pikachu",
+    "https://magicmadhouse.co.uk/pokemon-30th-celebration-mini-tin-day-mew",
+    "https://magicmadhouse.co.uk/pokemon-30th-celebration-mini-tin-day-espeon",
+    "https://magicmadhouse.co.uk/pokemon-30th-celebration-mini-tin-day-lapras",
+    "https://magicmadhouse.co.uk/pokemon-30th-celebration-mini-tin-day-moltres",
+    "https://magicmadhouse.co.uk/pokemon-30th-celebration-mini-tin-night-pikachu",
+    "https://magicmadhouse.co.uk/pokemon-30th-celebration-mini-tin-night-mewtwo",
+    "https://magicmadhouse.co.uk/pokemon-30th-celebration-mini-tin-night-umbreon",
+    "https://magicmadhouse.co.uk/pokemon-30th-celebration-mini-tin-night-greninja",
+    "https://magicmadhouse.co.uk/pokemon-30th-celebration-mini-tin-night-zapdos"
+   ]
+  },
+  {
+   "name": "Obsidia TCG",
+   "type": "shopify_collection",
+   "host": "obsidia-tcg.store",
+   "collections": ["30th-celebration"]
+  },
+  {
+   "name": "Total Cards",
+   "type": "shopify_collection",
+   "host": "totalcards.net",
+   "collections": ["pokemon-30th-celebration"]
+  },
+  {
+   "name": "Zatu",
+   "type": "shopify_collection",
+   "host": "www.zatu.co.uk",
+   "interval_seconds": 180,
+   "max_pages": 2,
+   "collections": ["new-releases-pokemon", "pre-orders-pokemon", "pokemon-tcg-elite-trainer-boxes", "other-sealed-product-pokemon", "booster-packs-pokemon"]
+  },
+  {
+   "name": "Titan Cards",
+   "type": "shopify_search",
+   "host": "www.titancards.co.uk",
+   "interval_seconds": 180,
+   "queries": ["30th celebration", "30th anniversary elite trainer box"]
+  }
+ ]
+}

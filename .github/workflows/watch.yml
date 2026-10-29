@@ -1,0 +1,32 @@
+name: Stock watch
+
+# Each run keeps checking for ~55 minutes. A new run is queued every 15
+# minutes, and the concurrency group makes it wait until the current one
+# finishes, so there's always one ready to take over. That gives near-constant
+# coverage even though GitHub's scheduler is often late.
+on:
+  schedule:
+    - cron: "*/15 * * * *"
+  workflow_dispatch:
+
+concurrency:
+  group: stock-watch
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  watch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 70
+    steps:
+      - uses: actions/checkout@v5
+
+      - name: Check shops
+        env:
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          python3 watcher.py --loop-minutes 55 --git-commit
