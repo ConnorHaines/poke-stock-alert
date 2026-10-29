@@ -1,0 +1,200 @@
+{
+ "items": {
+  "https://obsidia-tcg.store/products/pokemon-tcg-30th-anniversary-booster-pack": {
+   "alertable": true,
+   "available": true,
+   "last_change": "2026-10-29T14:33:15+00:00",
+   "price": 4.99,
+   "product": "Booster Pack",
+   "shop": "Obsidia TCG",
+   "title": "Pokemon TCG: 30th Celebration - Booster Pack"
+  },
+  "https://obsidia-tcg.store/products/pokemon-tcg-30th-celebration-2-pack-blister": {
+   "alertable": false,
+   "available": false,
+   "last_change": "2026-10-29T14:33:15+00:00",
+   "price": 9.95,
+   "product": "2-Pack Blister",
+   "shop": "Obsidia TCG",
+   "title": "Pokemon TCG: 30th Celebration 2-Pack Blister"
+  },
+  "https://obsidia-tcg.store/products/pokemon-tcg-30th-celebration-battle-deck-espeon-ex": {
+   "alertable": false,
+   "available": false,
+   "last_change": "2026-10-29T14:33:15+00:00",
+   "price": 19.95,
+   "product": "Battle Deck",
+   "shop": "Obsidia TCG",
+   "title": "Pokemon TCG: 30th Celebration - Battle Deck Espeon ex"
+  },
+  "https://obsidia-tcg.store/products/pokemon-tcg-30th-celebration-battle-deck-umbreon-ex": {
+   "alertable": false,
+   "available": false,
+   "last_change": "2026-10-29T14:33:15+00:00",
+   "price": 19.95,
+   "product": "Battle Deck",
+   "shop": "Obsidia TCG",
+   "title": "Pokemon TCG: 30th Celebration - Battle Deck Umbreon ex"
+  },
+  "https://obsidia-tcg.store/products/pokemon-tcg-30th-celebration-binder-collection": {
+   "alertable": false,
+   "available": false,
+   "last_change": "2026-10-29T14:33:15+00:00",
+   "price": 37.95,
+   "product": "Binder Collection",
+   "shop": "Obsidia TCG",
+   "title": "Pokemon TCG: 30th Celebration - Binder Collection"
+  },
+  "https://obsidia-tcg.store/products/pokemon-tcg-30th-celebration-booster-bundle": {
+   "alertable": false,
+   "available": false,
+   "last_change": "2026-10-29T14:33:15+00:00",
+   "price": 29.95,
+   "product": "Booster Bundle",
+   "shop": "Obsidia TCG",
+   "title": "Pokemon TCG: 30th Celebration - Booster Bundle"
+  },
+  "https://obsidia-tcg.store/products/pokemon-tcg-30th-celebration-day-mini-tins": {
+   "alertable": false,
+   "available": false,
+   "last_change": "2026-10-29T14:33:15+00:00",
+   "price": 9.95,
+   "product": "Mini Tin",
+   "shop": "Obsidia TCG",
+   "title": "Pokemon TCG: 30th Celebration - Day Mini Tin"
+  },
+  "https://obsidia-tcg.store/products/pokemon-tcg-30th-celebration-ditto-premium-collection": {
+   "alertable": false,
+   "available": false,
+   "last_change": "2026-10-29T14:33:15+00:00",
+   "price": 39.95,
+   "product": "Ditto Premium Collection",
+   "shop": "Obsidia TCG",
+   "title": "Pokemon TCG: 30th Celebration - Ditto Premium Collection"
+  },
+  "https://obsidia-tcg.store/products/pokemon-tcg-30th-celebration-elite-trainer-box": {
+   "alertable": false,
+   "available": false,
+   "last_change": "2026-10-29T14:33:15+00:00",
+   "price": 54.95,
+   "product": "Elite Trainer Box",
+   "shop": "Obsidia TCG",
+   "title": "Pokemon TCG: 30th Celebration - Elite Trainer Box"
+  },
+  "https://obsidia-tcg.store/products/pokemon-tcg-30th-celebration-figure-collection-mew": {
+   "alertable": false,
+   "available": false,
+   "last_change": "2026-10-29T14:33:15+00:00",
+   "price": 29.95,
+   "product": "Figure Collection",
+   "shop": "Obsidia TCG",
+   "title": "Pokemon TCG: 30th Celebration - Figure Collection Mew"
+  },
+  "https://obsidia-tcg.store/products/pokemon-tcg-30th-celebration-figure-collection-mewtwo": {
+   "alertable": false,
+   "available": false,
+   "last_change": "2026-10-29T14:33:15+00:00",
+   "price": 29.95,
+   "product": "Figure Collection",
+   "shop": "Obsidia TCG",
+   "title": "Pokemon TCG: 30th Celebration - Figure Collection Mewtwo"
+  },
+  "https://obsidia-tcg.store/products/pokemon-tcg-30th-celebration-greninja-ex-box": {
+   "alertable": false,
+   "available": false,
+   "last_change": "2026-10-29T14:33:15+00:00",
+   "price": 21.95,
+   "product": "ex Box",
+   "shop": "Obsidia TCG",
+   "title": "Pokemon TCG: 30th Celebration - Greninja ex Box"
+  },
+  "https://obsidia-tcg.store/products/pokemon-tcg-30th-celebration-greninja-ex-tin": {
+   "alertable": false,
+   "available": false,
+   "last_change": "2026-10-29T14:33:15+00:00",
+   "price": 19.99,
+   "product": "ex Tin",
+   "shop": "Obsidia TCG",
+   "title": "Pokemon TCG: 30th Celebration - Greninja ex Tin"
+  },
+  "https://obsidia-tcg.store/products/pokemon-tcg-30th-celebration-knock-out-collection": {
+   "alertable": false,
+   "available": false,
+   "last_change": "2026-10-29T14:33:15+00:00",
+   "price": 9.95,
+   "product": "Knock Out Collection",
+   "shop": "Obsidia TCG",
+   "title": "Pokemon TCG: 30th Celebration - Knock Out Collection"
+  },
+  "https://obsidia-tcg.store/products/pokemon-tcg-30th-celebration-night-mini-tins": {
+   "alertable": false,
+   "available": false,
+   "last_change": "2026-10-29T14:33:15+00:00",
+   "price": 9.95,
+   "product": "Mini Tin",
+   "shop": "Obsidia TCG",
+   "title": "Pokemon TCG: 30th Celebration - Night Mini Tin"
+  },
+  "https://obsidia-tcg.store/products/pokemon-tcg-30th-celebration-poster-collection": {
+   "alertable": false,
+   "available": false,
+   "last_change": "2026-10-29T14:33:15+00:00",
+   "price": 19.95,
+   "product": "Poster Collection",
+   "shop": "Obsidia TCG",
+   "title": "Pokemon TCG: 30th Celebration - Poster Collection"
+  },
+  "https://obsidia-tcg.store/products/pokemon-tcg-30th-celebration-sylveon-ex-box": {
+   "alertable": false,
+   "available": false,
+   "last_change": "2026-10-29T14:33:15+00:00",
+   "price": 21.95,
+   "product": "ex Box",
+   "shop": "Obsidia TCG",
+   "title": "Pokemon TCG: 30th Celebration - Sylveon ex Box"
+  },
+  "https://obsidia-tcg.store/products/pokemon-tcg-30th-celebration-sylveon-ex-tin": {
+   "alertable": false,
+   "available": false,
+   "last_change": "2026-10-29T14:33:15+00:00",
+   "price": 19.99,
+   "product": "ex Tin",
+   "shop": "Obsidia TCG",
+   "title": "Pokemon TCG: 30th Celebration - Sylveon ex Tin"
+  },
+  "https://obsidia-tcg.store/products/pokemon-tcg-30th-celebration-tech-sticker-collection": {
+   "alertable": false,
+   "available": false,
+   "last_change": "2026-10-29T14:33:15+00:00",
+   "price": 14.95,
+   "product": "Tech Sticker Collection",
+   "shop": "Obsidia TCG",
+   "title": "Pokemon TCG: 30th Celebration - Tech Sticker Collection"
+  },
+  "https://obsidia-tcg.store/products/pokemon-tcg-30th-celebration-ultra-premium-collection-day": {
+   "alertable": false,
+   "available": false,
+   "last_change": "2026-10-29T14:33:15+00:00",
+   "price": 169.95,
+   "product": "Ultra-Premium Collection",
+   "shop": "Obsidia TCG",
+   "title": "Pokemon TCG: 30th Celebration - Ultra Premium Collection Day"
+  },
+  "https://obsidia-tcg.store/products/pokemon-tcg-30th-celebration-ultra-premium-collection-night": {
+   "alertable": false,
+   "available": false,
+   "last_change": "2026-10-29T14:33:15+00:00",
+   "price": 169.95,
+   "product": "Ultra-Premium Collection",
+   "shop": "Obsidia TCG",
+   "title": "Pokemon TCG: 30th Celebration - Ultra Premium Collection Night"
+  }
+ },
+ "shops": {
+  "Obsidia TCG": {
+   "fails": 0,
+   "flagged": false
+  }
+ },
+ "updated": "2026-10-29T14:33:15+00:00"
+}
