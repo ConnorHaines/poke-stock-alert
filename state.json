@@ -84,8 +84,8 @@
   "https://magicmadhouse.co.uk/pokemon-30th-celebration-mini-tin-day-pikachu": {
    "alertable": false,
    "available": false,
-   "last_change": "2026-10-29T14:34:14+00:00",
-   "price": 12.99,
+   "last_change": "2026-10-29T22:15:18+00:00",
+   "price": 10.82,
    "product": "Mini Tin",
    "shop": "Magic Madhouse",
    "title": "30th Celebration Mini Tin Day - Pikachu"
@@ -860,5 +860,5 @@
    "flagged": false
   }
  },
- "updated": "2026-10-29T21:19:51+00:00"
+ "updated": "2026-10-29T22:15:18+00:00"
 }
