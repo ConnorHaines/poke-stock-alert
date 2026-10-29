@@ -64,9 +64,14 @@ suit, or set one to `null` for "tell me at any price".
 ## How it runs
 
 GitHub Actions runs `watcher.py` in the cloud, so no computer needs to stay on. Each run
-checks for 55 minutes. A fresh one queues every 15 minutes and takes over when the last
-one ends. What it last saw is saved in `state.json`, so you only get pinged when
-something *changes* to in stock, not every two minutes while it stays in stock.
+checks for 55 minutes and, as it starts, queues the next run, which takes over the moment
+it ends. A 15-minute schedule restarts the chain if it ever breaks (GitHub's schedule is
+too unreliable to rely on alone). What it last saw is saved in `state.json`, so you only
+get pinged when something *changes* to in stock, not every two minutes while it stays
+in stock.
+
+**To stop it:** on GitHub, open Actions > Stock watch > "..." > **Disable workflow**.
+Enable it again and press **Run workflow** to restart.
 
 The ntfy topic is stored as the `NTFY_TOPIC` repository secret, never in the code.
 

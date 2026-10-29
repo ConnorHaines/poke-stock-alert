@@ -1,9 +1,11 @@
 name: Stock watch
 
-# Each run keeps checking for ~55 minutes. A new run is queued every 15
-# minutes, and the concurrency group makes it wait until the current one
-# finishes, so there's always one ready to take over. That gives near-constant
-# coverage even though GitHub's scheduler is often late.
+# Each run keeps checking for ~55 minutes. As it starts, it queues the next
+# run, which waits in the concurrency group and takes over the moment this one
+# ends. GitHub's cron is too unreliable to depend on (it can skip hours), so it
+# is only a backup that restarts the chain if it ever breaks.
+#
+# To stop everything: Actions tab > Stock watch > "..." > Disable workflow.
 on:
   schedule:
     - cron: "*/15 * * * *"
@@ -15,6 +17,7 @@ concurrency:
 
 permissions:
   contents: write
+  actions: write
 
 jobs:
   watch:
@@ -22,6 +25,11 @@ jobs:
     timeout-minutes: 70
     steps:
       - uses: actions/checkout@v5
+
+      - name: Queue the next run
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run watch.yml --repo "${{ github.repository }}" --ref "${{ github.ref_name }}"
 
       - name: Check shops
         env:
