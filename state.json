@@ -210,7 +210,7 @@
   "https://obsidia-tcg.store/products/pokemon-tcg-30th-celebration-battle-deck-espeon-ex": {
    "alertable": false,
    "available": false,
-   "last_change": "2026-10-30T11:27:06+00:00",
+   "last_change": "2026-10-30T11:56:00+00:00",
    "price": 21.95,
    "product": "Battle Deck",
    "shop": "Obsidia TCG",
@@ -219,7 +219,7 @@
   "https://obsidia-tcg.store/products/pokemon-tcg-30th-celebration-battle-deck-umbreon-ex": {
    "alertable": false,
    "available": false,
-   "last_change": "2026-10-30T11:25:11+00:00",
+   "last_change": "2026-10-30T11:56:00+00:00",
    "price": 21.95,
    "product": "Battle Deck",
    "shop": "Obsidia TCG",
@@ -860,5 +860,5 @@
    "flagged": false
   }
  },
- "updated": "2026-10-30T11:27:06+00:00"
+ "updated": "2026-10-30T11:56:00+00:00"
 }
