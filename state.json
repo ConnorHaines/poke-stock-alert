@@ -624,8 +624,8 @@
   "https://totalcards.net/products/pokemon-30th-celebration-tin-sylveon-ex": {
    "alertable": false,
    "available": false,
-   "last_change": "2026-10-29T14:33:17+00:00",
-   "price": 0.0,
+   "last_change": "2026-10-30T06:56:52+00:00",
+   "price": 33.29,
    "product": "ex Tin",
    "shop": "Total Cards",
    "title": "Pokemon - 30th Celebration - Tin - Sylveon ex"
@@ -860,5 +860,5 @@
    "flagged": false
   }
  },
- "updated": "2026-10-30T04:19:58+00:00"
+ "updated": "2026-10-30T06:56:52+00:00"
 }
