@@ -208,18 +208,18 @@
    "title": "Pokemon TCG: 30th Celebration 2-Pack Blister"
   },
   "https://obsidia-tcg.store/products/pokemon-tcg-30th-celebration-battle-deck-espeon-ex": {
-   "alertable": false,
-   "available": false,
-   "last_change": "2026-10-30T11:56:00+00:00",
+   "alertable": true,
+   "available": true,
+   "last_change": "2026-10-30T12:13:11+00:00",
    "price": 21.95,
    "product": "Battle Deck",
    "shop": "Obsidia TCG",
    "title": "Pokemon TCG: 30th Celebration - Battle Deck Espeon ex"
   },
   "https://obsidia-tcg.store/products/pokemon-tcg-30th-celebration-battle-deck-umbreon-ex": {
-   "alertable": false,
-   "available": false,
-   "last_change": "2026-10-30T11:56:00+00:00",
+   "alertable": true,
+   "available": true,
+   "last_change": "2026-10-30T12:13:11+00:00",
    "price": 21.95,
    "product": "Battle Deck",
    "shop": "Obsidia TCG",
@@ -860,5 +860,5 @@
    "flagged": false
   }
  },
- "updated": "2026-10-30T11:56:00+00:00"
+ "updated": "2026-10-30T12:13:11+00:00"
 }
