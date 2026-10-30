@@ -147,8 +147,8 @@
   "https://magicmadhouse.co.uk/pokemon-30th-celebration-sylveon-ex-collection-box": {
    "alertable": false,
    "available": false,
-   "last_change": "2026-10-29T14:34:14+00:00",
-   "price": 21.99,
+   "last_change": "2026-10-30T13:59:53+00:00",
+   "price": 18.32,
    "product": "ex Box",
    "shop": "Magic Madhouse",
    "title": "30th Celebration Sylveon ex Collection Box"
@@ -210,7 +210,7 @@
   "https://obsidia-tcg.store/products/pokemon-tcg-30th-celebration-battle-deck-espeon-ex": {
    "alertable": true,
    "available": true,
-   "last_change": "2026-10-30T12:50:56+00:00",
+   "last_change": "2026-10-30T12:13:11+00:00",
    "price": 21.95,
    "product": "Battle Deck",
    "shop": "Obsidia TCG",
@@ -219,7 +219,7 @@
   "https://obsidia-tcg.store/products/pokemon-tcg-30th-celebration-battle-deck-umbreon-ex": {
    "alertable": true,
    "available": true,
-   "last_change": "2026-10-30T12:50:56+00:00",
+   "last_change": "2026-10-30T12:13:11+00:00",
    "price": 21.95,
    "product": "Battle Deck",
    "shop": "Obsidia TCG",
@@ -860,5 +860,5 @@
    "flagged": false
   }
  },
- "updated": "2026-10-30T13:46:10+00:00"
+ "updated": "2026-10-30T13:59:53+00:00"
 }
