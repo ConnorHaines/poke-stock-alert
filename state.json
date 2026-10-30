@@ -758,8 +758,8 @@
   },
   "https://www.zatu.co.uk/products/pokemon-tcg-30th-celebration-mini-tin-vivillon": {
    "alertable": false,
-   "available": true,
-   "last_change": "2026-10-29T23:09:27+00:00",
+   "available": false,
+   "last_change": "2026-10-30T22:00:02+00:00",
    "price": 29.99,
    "product": "Mini Tin",
    "shop": "Zatu",
@@ -860,5 +860,5 @@
    "flagged": false
   }
  },
- "updated": "2026-10-30T20:28:44+00:00"
+ "updated": "2026-10-30T22:00:02+00:00"
 }
