@@ -651,8 +651,8 @@
   "https://www.titancards.co.uk/products/pokemon-tcg-30th-celebration-ex-box-sylveon": {
    "alertable": false,
    "available": true,
-   "last_change": "2026-10-29T23:09:17+00:00",
-   "price": 70.0,
+   "last_change": "2026-10-31T08:05:14+00:00",
+   "price": 49.99,
    "product": "ex Box",
    "shop": "Titan Cards",
    "title": "Pokémon TCG: 30th Celebration Pokémon ex Box — Sylveon ex"
@@ -660,8 +660,8 @@
   "https://www.titancards.co.uk/products/pokemon-tcg-30th-celebration-mini-tins-sealed-display": {
    "alertable": false,
    "available": true,
-   "last_change": "2026-10-30T13:46:10+00:00",
-   "price": 321.0,
+   "last_change": "2026-10-31T08:05:14+00:00",
+   "price": 229.99,
    "product": "Mini Tin display (10)",
    "shop": "Titan Cards",
    "title": "Pokémon TCG: 30th Celebration Mini Tins — Sealed Display / CDU (10 Tins)"
@@ -860,5 +860,5 @@
    "flagged": false
   }
  },
- "updated": "2026-10-31T07:43:17+00:00"
+ "updated": "2026-10-31T08:05:14+00:00"
 }
