@@ -856,9 +856,10 @@
    "flagged": false
   },
   "Zatu": {
-   "fails": 0,
-   "flagged": false
+   "fails": 1,
+   "flagged": false,
+   "last_error": "Blocked: HTTP 503"
   }
  },
- "updated": "2026-10-31T14:23:19+00:00"
+ "updated": "2026-10-31T15:32:03+00:00"
 }
