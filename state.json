@@ -174,8 +174,8 @@
   "https://magicmadhouse.co.uk/pokemon-30th-celebration-tin-greninja-ex": {
    "alertable": false,
    "available": false,
-   "last_change": "2026-10-29T14:34:14+00:00",
-   "price": 21.99,
+   "last_change": "2026-10-31T16:12:33+00:00",
+   "price": 18.32,
    "product": "ex Tin",
    "shop": "Magic Madhouse",
    "title": "30th Celebration Tin Greninja ex"
@@ -860,5 +860,5 @@
    "flagged": false
   }
  },
- "updated": "2026-10-31T16:03:14+00:00"
+ "updated": "2026-10-31T16:12:33+00:00"
 }
