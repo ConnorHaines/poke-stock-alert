@@ -650,8 +650,8 @@
   },
   "https://www.titancards.co.uk/products/pokemon-tcg-30th-celebration-ex-box-sylveon": {
    "alertable": false,
-   "available": true,
-   "last_change": "2026-10-31T10:49:31+00:00",
+   "available": false,
+   "last_change": "2026-10-31T11:39:53+00:00",
    "price": 70.0,
    "product": "ex Box",
    "shop": "Titan Cards",
@@ -860,5 +860,5 @@
    "flagged": false
   }
  },
- "updated": "2026-10-31T11:27:14+00:00"
+ "updated": "2026-10-31T11:39:53+00:00"
 }
