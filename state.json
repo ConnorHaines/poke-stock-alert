@@ -21,8 +21,8 @@
   "https://magicmadhouse.co.uk/pokemon-30th-celebration-booster-pack": {
    "alertable": false,
    "available": false,
-   "last_change": "2026-11-02T10:29:02+00:00",
-   "price": 5.79,
+   "last_change": "2026-11-02T10:35:17+00:00",
+   "price": 6.95,
    "product": "Booster Pack",
    "shop": "Magic Madhouse",
    "title": "30th Celebration Booster Pack"
@@ -860,5 +860,5 @@
    "flagged": false
   }
  },
- "updated": "2026-11-02T10:29:02+00:00"
+ "updated": "2026-11-02T10:35:17+00:00"
 }
