@@ -657,6 +657,15 @@
    "shop": "Titan Cards",
    "title": "Pokémon TCG: 30th Celebration Pokémon ex Box — Sylveon ex"
   },
+  "https://www.titancards.co.uk/products/pokemon-tcg-30th-celebration-figure-collection-mewtwo": {
+   "alertable": false,
+   "available": true,
+   "last_change": "2026-11-03T10:01:22+00:00",
+   "price": 112.0,
+   "product": "Figure Collection",
+   "shop": "Titan Cards",
+   "title": "Pokémon TCG: Figure Collection — Mewtwo — 30th Celebration"
+  },
   "https://www.titancards.co.uk/products/pokemon-tcg-30th-celebration-mini-tins-sealed-display": {
    "alertable": false,
    "available": true,
@@ -860,5 +869,5 @@
    "flagged": false
   }
  },
- "updated": "2026-11-03T08:27:33+00:00"
+ "updated": "2026-11-03T10:01:22+00:00"
 }
