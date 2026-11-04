@@ -651,8 +651,8 @@
   "https://www.titancards.co.uk/products/pokemon-30th-anniversary-ultra-premium-collection-day-espeon": {
    "alertable": false,
    "available": true,
-   "last_change": "2026-11-03T11:11:48+00:00",
-   "price": 559.0,
+   "last_change": "2026-11-04T08:55:12+00:00",
+   "price": 561.0,
    "product": "Ultra-Premium Collection",
    "shop": "Titan Cards",
    "title": "Pokemon TCG 30th Anniversary Ultra Premium Collection - Day/Espeon"
@@ -896,5 +896,5 @@
    "flagged": false
   }
  },
- "updated": "2026-11-04T02:48:24+00:00"
+ "updated": "2026-11-04T08:55:12+00:00"
 }
