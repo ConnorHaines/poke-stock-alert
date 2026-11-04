@@ -714,8 +714,8 @@
   "https://www.zatu.co.uk/products/pokemon-tcg-30th-celebration-elite-trainer-box": {
    "alertable": false,
    "available": true,
-   "last_change": "2026-11-03T01:07:47+00:00",
-   "price": 169.99,
+   "last_change": "2026-11-04T09:30:52+00:00",
+   "price": 129.99,
    "product": "Elite Trainer Box",
    "shop": "Zatu",
    "title": "Pokemon TCG: 30th Celebration - Elite Trainer Box"
@@ -896,5 +896,5 @@
    "flagged": false
   }
  },
- "updated": "2026-11-04T09:13:32+00:00"
+ "updated": "2026-11-04T09:30:52+00:00"
 }
