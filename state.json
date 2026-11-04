@@ -678,8 +678,8 @@
   "https://www.titancards.co.uk/products/pokemon-tcg-30th-celebration-figure-collection-mew": {
    "alertable": false,
    "available": true,
-   "last_change": "2026-11-03T10:17:08+00:00",
-   "price": 112.0,
+   "last_change": "2026-11-04T02:08:43+00:00",
+   "price": 113.0,
    "product": "Figure Collection",
    "shop": "Titan Cards",
    "title": "Pokémon TCG: 30th Celebration Figure Collection — Mew"
@@ -687,8 +687,8 @@
   "https://www.titancards.co.uk/products/pokemon-tcg-30th-celebration-figure-collection-mewtwo": {
    "alertable": false,
    "available": true,
-   "last_change": "2026-11-03T10:17:08+00:00",
-   "price": 112.0,
+   "last_change": "2026-11-04T02:08:43+00:00",
+   "price": 113.0,
    "product": "Figure Collection",
    "shop": "Titan Cards",
    "title": "Pokémon TCG: Figure Collection — Mewtwo — 30th Celebration"
@@ -696,8 +696,8 @@
   "https://www.titancards.co.uk/products/pokemon-tcg-30th-celebration-mini-tins-sealed-display": {
    "alertable": false,
    "available": true,
-   "last_change": "2026-11-04T00:09:35+00:00",
-   "price": 322.0,
+   "last_change": "2026-11-04T02:08:43+00:00",
+   "price": 323.0,
    "product": "Mini Tin display (10)",
    "shop": "Titan Cards",
    "title": "Pokémon TCG: 30th Celebration Mini Tins — Sealed Display / CDU (10 Tins)"
@@ -896,5 +896,5 @@
    "flagged": false
   }
  },
- "updated": "2026-11-04T00:09:35+00:00"
+ "updated": "2026-11-04T02:08:43+00:00"
 }
