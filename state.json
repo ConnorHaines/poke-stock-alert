@@ -687,8 +687,8 @@
   "https://www.titancards.co.uk/products/pokemon-tcg-30th-celebration-figure-collection-mew": {
    "alertable": false,
    "available": true,
-   "last_change": "2026-11-05T13:36:27+00:00",
-   "price": 113.0,
+   "last_change": "2026-11-05T20:08:17+00:00",
+   "price": 112.0,
    "product": "Figure Collection",
    "shop": "Titan Cards",
    "title": "Pokémon TCG: 30th Celebration Figure Collection — Mew"
@@ -696,8 +696,8 @@
   "https://www.titancards.co.uk/products/pokemon-tcg-30th-celebration-figure-collection-mewtwo": {
    "alertable": false,
    "available": true,
-   "last_change": "2026-11-05T13:36:27+00:00",
-   "price": 113.0,
+   "last_change": "2026-11-05T20:08:17+00:00",
+   "price": 112.0,
    "product": "Figure Collection",
    "shop": "Titan Cards",
    "title": "Pokémon TCG: Figure Collection — Mewtwo — 30th Celebration"
@@ -905,5 +905,5 @@
    "flagged": false
   }
  },
- "updated": "2026-11-05T20:00:40+00:00"
+ "updated": "2026-11-05T20:08:17+00:00"
 }
