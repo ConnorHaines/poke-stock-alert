@@ -426,7 +426,7 @@
   "https://totalcards.net/products/pokemon-30th-celebration-booster-pack": {
    "alertable": false,
    "available": true,
-   "last_change": "2026-11-05T20:00:40+00:00",
+   "last_change": "2026-11-05T19:13:01+00:00",
    "price": 9.96,
    "product": "Booster Pack",
    "shop": "Total Cards",
@@ -651,8 +651,8 @@
   "https://www.titancards.co.uk/products/pokemon-30th-anniversary-elite-trainer-box": {
    "alertable": false,
    "available": false,
-   "last_change": "2026-11-05T13:36:27+00:00",
-   "price": 197.0,
+   "last_change": "2026-11-05T21:08:03+00:00",
+   "price": 196.0,
    "product": "Elite Trainer Box",
    "shop": "Titan Cards",
    "title": "Pokémon TCG: 30th Anniversary Elite Trainer Box"
@@ -705,8 +705,8 @@
   "https://www.titancards.co.uk/products/pokemon-tcg-30th-celebration-mini-tins-sealed-display": {
    "alertable": false,
    "available": true,
-   "last_change": "2026-11-05T13:36:27+00:00",
-   "price": 323.0,
+   "last_change": "2026-11-05T21:08:03+00:00",
+   "price": 322.0,
    "product": "Mini Tin display (10)",
    "shop": "Titan Cards",
    "title": "Pokémon TCG: 30th Celebration Mini Tins — Sealed Display / CDU (10 Tins)"
@@ -905,5 +905,5 @@
    "flagged": false
   }
  },
- "updated": "2026-11-05T20:54:55+00:00"
+ "updated": "2026-11-05T21:08:03+00:00"
 }
