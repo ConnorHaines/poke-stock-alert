@@ -425,8 +425,8 @@
   },
   "https://totalcards.net/products/pokemon-30th-celebration-booster-pack": {
    "alertable": false,
-   "available": false,
-   "last_change": "2026-11-06T09:44:21+00:00",
+   "available": true,
+   "last_change": "2026-11-06T13:06:08+00:00",
    "price": 9.96,
    "product": "Booster Pack",
    "shop": "Total Cards",
@@ -905,5 +905,5 @@
    "flagged": false
   }
  },
- "updated": "2026-11-06T12:07:57+00:00"
+ "updated": "2026-11-06T13:06:08+00:00"
 }
