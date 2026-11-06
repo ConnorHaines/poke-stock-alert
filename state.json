@@ -183,7 +183,7 @@
   "https://magicmadhouse.co.uk/pokemon-30th-celebration-tin-sylveon-ex": {
    "alertable": false,
    "available": false,
-   "last_change": "2026-11-06T12:07:57+00:00",
+   "last_change": "2026-11-03T14:38:38+00:00",
    "price": 21.99,
    "product": "ex Tin",
    "shop": "Magic Madhouse",
@@ -651,8 +651,8 @@
   "https://www.titancards.co.uk/products/pokemon-30th-anniversary-elite-trainer-box": {
    "alertable": false,
    "available": false,
-   "last_change": "2026-11-06T11:31:53+00:00",
-   "price": 196.0,
+   "last_change": "2026-11-06T13:07:43+00:00",
+   "price": 195.0,
    "product": "Elite Trainer Box",
    "shop": "Titan Cards",
    "title": "Pokémon TCG: 30th Anniversary Elite Trainer Box"
@@ -905,5 +905,5 @@
    "flagged": false
   }
  },
- "updated": "2026-11-06T13:06:08+00:00"
+ "updated": "2026-11-06T13:07:43+00:00"
 }
