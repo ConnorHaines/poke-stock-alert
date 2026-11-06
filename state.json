@@ -271,18 +271,18 @@
    "title": "Pokemon TCG: 30th Celebration - Elite Trainer Box"
   },
   "https://obsidia-tcg.store/products/pokemon-tcg-30th-celebration-figure-collection-mew": {
-   "alertable": false,
-   "available": false,
-   "last_change": "2026-10-29T14:33:15+00:00",
+   "alertable": true,
+   "available": true,
+   "last_change": "2026-11-06T09:52:23+00:00",
    "price": 29.95,
    "product": "Figure Collection",
    "shop": "Obsidia TCG",
    "title": "Pokemon TCG: 30th Celebration - Figure Collection Mew"
   },
   "https://obsidia-tcg.store/products/pokemon-tcg-30th-celebration-figure-collection-mewtwo": {
-   "alertable": false,
-   "available": false,
-   "last_change": "2026-10-29T14:33:15+00:00",
+   "alertable": true,
+   "available": true,
+   "last_change": "2026-11-06T09:52:23+00:00",
    "price": 29.95,
    "product": "Figure Collection",
    "shop": "Obsidia TCG",
@@ -370,9 +370,9 @@
    "title": "Pokemon TCG: 30th Celebration - Ultra Premium Collection Day"
   },
   "https://obsidia-tcg.store/products/pokemon-tcg-30th-celebration-ultra-premium-collection-night": {
-   "alertable": false,
-   "available": false,
-   "last_change": "2026-10-29T14:33:15+00:00",
+   "alertable": true,
+   "available": true,
+   "last_change": "2026-11-06T09:52:23+00:00",
    "price": 169.95,
    "product": "Ultra-Premium Collection",
    "shop": "Obsidia TCG",
@@ -705,7 +705,7 @@
   "https://www.titancards.co.uk/products/pokemon-tcg-30th-celebration-mini-tins-sealed-display": {
    "alertable": false,
    "available": true,
-   "last_change": "2026-11-06T08:48:00+00:00",
+   "last_change": "2026-11-06T08:09:19+00:00",
    "price": 321.0,
    "product": "Mini Tin display (10)",
    "shop": "Titan Cards",
@@ -905,5 +905,5 @@
    "flagged": false
   }
  },
- "updated": "2026-11-06T09:44:21+00:00"
+ "updated": "2026-11-06T09:52:23+00:00"
 }
