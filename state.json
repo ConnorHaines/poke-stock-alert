@@ -57,8 +57,8 @@
   "https://magicmadhouse.co.uk/pokemon-30th-celebration-mini-tin-day-lapras": {
    "alertable": false,
    "available": false,
-   "last_change": "2026-11-06T16:32:10+00:00",
-   "price": 10.82,
+   "last_change": "2026-11-06T16:37:09+00:00",
+   "price": 12.99,
    "product": "Mini Tin",
    "shop": "Magic Madhouse",
    "title": "30th Celebration Mini Tin Day - Lapras"
@@ -905,5 +905,5 @@
    "flagged": false
   }
  },
- "updated": "2026-11-06T16:32:10+00:00"
+ "updated": "2026-11-06T16:37:09+00:00"
 }
