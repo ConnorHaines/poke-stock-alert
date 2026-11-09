@@ -3,7 +3,7 @@
   "https://magicmadhouse.co.uk/pokemon-30th-celebration-2-pack-blister-eevee": {
    "alertable": false,
    "available": false,
-   "last_change": "2026-11-09T11:59:40+00:00",
+   "last_change": "2026-11-01T01:03:46+00:00",
    "price": 9.99,
    "product": "2-Pack Blister",
    "shop": "Magic Madhouse",
@@ -705,8 +705,8 @@
   "https://www.titancards.co.uk/products/pokemon-tcg-30th-celebration-mini-tins-sealed-display": {
    "alertable": false,
    "available": true,
-   "last_change": "2026-11-09T12:41:21+00:00",
-   "price": 321.0,
+   "last_change": "2026-11-09T13:07:07+00:00",
+   "price": 322.0,
    "product": "Mini Tin display (10)",
    "shop": "Titan Cards",
    "title": "Pokémon TCG: 30th Celebration Mini Tins — Sealed Display / CDU (10 Tins)"
@@ -905,5 +905,5 @@
    "flagged": false
   }
  },
- "updated": "2026-11-09T12:41:21+00:00"
+ "updated": "2026-11-09T13:07:07+00:00"
 }
