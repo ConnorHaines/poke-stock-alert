@@ -714,8 +714,8 @@
   "https://www.zatu.co.uk/products/pokemon-tcg-30th-celebration-2-pack-blister": {
    "alertable": false,
    "available": false,
-   "last_change": "2026-11-10T04:35:24+00:00",
-   "price": 69.0,
+   "last_change": "2026-11-10T05:09:08+00:00",
+   "price": 69.01,
    "product": "2-Pack Blister",
    "shop": "Zatu",
    "title": "Pokemon TCG: 30th Celebration - 2 pack Blister"
@@ -723,8 +723,8 @@
   "https://www.zatu.co.uk/products/pokemon-tcg-30th-celebration-elite-trainer-box": {
    "alertable": false,
    "available": true,
-   "last_change": "2026-11-10T04:35:24+00:00",
-   "price": 249.21,
+   "last_change": "2026-11-10T05:09:08+00:00",
+   "price": 249.25,
    "product": "Elite Trainer Box",
    "shop": "Zatu",
    "title": "Pokemon TCG: 30th Celebration - Elite Trainer Box"
@@ -822,8 +822,8 @@
   "https://www.zatu.co.uk/products/pokemon-tcg-battle-deck-30th-celebration-victini": {
    "alertable": false,
    "available": false,
-   "last_change": "2026-11-10T04:35:24+00:00",
-   "price": 38.32,
+   "last_change": "2026-11-10T05:09:08+00:00",
+   "price": 38.33,
    "product": "Battle Deck",
    "shop": "Zatu",
    "title": "Pokémon TCG: Battle Deck- 30th Celebration - Victini"
@@ -831,8 +831,8 @@
   "https://www.zatu.co.uk/products/pokemon-tcg-battle-deck-30th-celebration-zeraora": {
    "alertable": false,
    "available": false,
-   "last_change": "2026-11-10T04:35:24+00:00",
-   "price": 38.32,
+   "last_change": "2026-11-10T05:09:08+00:00",
+   "price": 38.33,
    "product": "Battle Deck",
    "shop": "Zatu",
    "title": "Pokémon TCG: Battle Deck - 30th Celebration - Zeraora"
@@ -840,8 +840,8 @@
   "https://www.zatu.co.uk/products/pokemon-tcg-ditto-premium-collection-30th-celebration": {
    "alertable": false,
    "available": false,
-   "last_change": "2026-11-10T04:35:24+00:00",
-   "price": 76.67,
+   "last_change": "2026-11-10T05:09:08+00:00",
+   "price": 76.68,
    "product": "Ditto Premium Collection",
    "shop": "Zatu",
    "title": "Pokémon TCG: Ditto Premium Collection - 30th Celebration"
@@ -867,8 +867,8 @@
   "https://www.zatu.co.uk/products/pokemon-tcg-ultra-premium-collection-day-30th-celebration": {
    "alertable": false,
    "available": false,
-   "last_change": "2026-11-10T04:35:24+00:00",
-   "price": 325.9,
+   "last_change": "2026-11-10T05:09:08+00:00",
+   "price": 325.94,
    "product": "Ultra-Premium Collection",
    "shop": "Zatu",
    "title": "Pokémon TCG: Ultra Premium Collection - Day 30th Celebration"
@@ -876,8 +876,8 @@
   "https://www.zatu.co.uk/products/pokemon-tcg-ultra-premium-collection-night-30th-celebration": {
    "alertable": false,
    "available": false,
-   "last_change": "2026-11-10T04:35:24+00:00",
-   "price": 325.9,
+   "last_change": "2026-11-10T05:09:08+00:00",
+   "price": 325.94,
    "product": "Ultra-Premium Collection",
    "shop": "Zatu",
    "title": "Pokémon TCG: Ultra Premium Collection - Night 30th Celebration"
@@ -905,5 +905,5 @@
    "flagged": false
   }
  },
- "updated": "2026-11-10T04:35:24+00:00"
+ "updated": "2026-11-10T05:09:08+00:00"
 }
