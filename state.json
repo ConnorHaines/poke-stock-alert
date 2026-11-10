@@ -669,7 +669,7 @@
   "https://www.titancards.co.uk/products/pokemon-30th-anniversary-ultra-premium-collection-night-umbreon": {
    "alertable": false,
    "available": true,
-   "last_change": "2026-11-10T16:08:27+00:00",
+   "last_change": "2026-11-10T16:29:00+00:00",
    "price": 556.0,
    "product": "Ultra-Premium Collection",
    "shop": "Titan Cards",
@@ -678,7 +678,7 @@
   "https://www.titancards.co.uk/products/pokemon-tcg-30th-celebration-espeon-umbreon-battle-deck-bundle": {
    "alertable": false,
    "available": true,
-   "last_change": "2026-11-10T16:19:45+00:00",
+   "last_change": "2026-11-10T16:29:00+00:00",
    "price": 84.0,
    "product": "Battle Deck",
    "shop": "Titan Cards",
@@ -696,7 +696,7 @@
   "https://www.titancards.co.uk/products/pokemon-tcg-30th-celebration-figure-collection-mew": {
    "alertable": false,
    "available": true,
-   "last_change": "2026-11-10T16:08:27+00:00",
+   "last_change": "2026-11-10T16:29:00+00:00",
    "price": 111.0,
    "product": "Figure Collection",
    "shop": "Titan Cards",
@@ -705,7 +705,7 @@
   "https://www.titancards.co.uk/products/pokemon-tcg-30th-celebration-figure-collection-mewtwo": {
    "alertable": false,
    "available": true,
-   "last_change": "2026-11-10T16:08:27+00:00",
+   "last_change": "2026-11-10T16:29:00+00:00",
    "price": 111.0,
    "product": "Figure Collection",
    "shop": "Titan Cards",
@@ -714,7 +714,7 @@
   "https://www.titancards.co.uk/products/pokemon-tcg-30th-celebration-mini-tins-sealed-display": {
    "alertable": false,
    "available": true,
-   "last_change": "2026-11-10T16:08:27+00:00",
+   "last_change": "2026-11-10T16:29:00+00:00",
    "price": 320.0,
    "product": "Mini Tin display (10)",
    "shop": "Titan Cards",
@@ -914,5 +914,5 @@
    "flagged": false
   }
  },
- "updated": "2026-11-10T16:19:45+00:00"
+ "updated": "2026-11-10T16:29:00+00:00"
 }
