@@ -651,7 +651,7 @@
   "https://www.titancards.co.uk/products/pokemon-30th-anniversary-elite-trainer-box": {
    "alertable": false,
    "available": false,
-   "last_change": "2026-11-10T15:34:02+00:00",
+   "last_change": "2026-11-10T15:06:55+00:00",
    "price": 195.0,
    "product": "Elite Trainer Box",
    "shop": "Titan Cards",
@@ -669,8 +669,8 @@
   "https://www.titancards.co.uk/products/pokemon-30th-anniversary-ultra-premium-collection-night-umbreon": {
    "alertable": false,
    "available": true,
-   "last_change": "2026-11-10T16:29:00+00:00",
-   "price": 556.0,
+   "last_change": "2026-11-10T17:07:47+00:00",
+   "price": 555.0,
    "product": "Ultra-Premium Collection",
    "shop": "Titan Cards",
    "title": "Pokémon TCG: 30th Anniversary Ultra-Premium Collection — Night (Umbreon)"
@@ -714,8 +714,8 @@
   "https://www.titancards.co.uk/products/pokemon-tcg-30th-celebration-mini-tins-sealed-display": {
    "alertable": false,
    "available": true,
-   "last_change": "2026-11-10T16:29:00+00:00",
-   "price": 320.0,
+   "last_change": "2026-11-10T17:07:47+00:00",
+   "price": 319.0,
    "product": "Mini Tin display (10)",
    "shop": "Titan Cards",
    "title": "Pokémon TCG: 30th Celebration Mini Tins — Sealed Display / CDU (10 Tins)"
@@ -910,9 +910,10 @@
    "flagged": false
   },
   "Zatu": {
-   "fails": 0,
-   "flagged": false
+   "fails": 1,
+   "flagged": false,
+   "last_error": "IncompleteRead: IncompleteRead(0 bytes read)"
   }
  },
- "updated": "2026-11-10T16:29:00+00:00"
+ "updated": "2026-11-10T17:07:47+00:00"
 }
