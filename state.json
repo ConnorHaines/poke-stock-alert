@@ -669,7 +669,7 @@
   "https://www.titancards.co.uk/products/pokemon-30th-anniversary-ultra-premium-collection-night-umbreon": {
    "alertable": false,
    "available": true,
-   "last_change": "2026-11-10T17:07:47+00:00",
+   "last_change": "2026-11-10T17:23:55+00:00",
    "price": 555.0,
    "product": "Ultra-Premium Collection",
    "shop": "Titan Cards",
@@ -714,7 +714,7 @@
   "https://www.titancards.co.uk/products/pokemon-tcg-30th-celebration-mini-tins-sealed-display": {
    "alertable": false,
    "available": true,
-   "last_change": "2026-11-10T17:07:47+00:00",
+   "last_change": "2026-11-10T17:23:55+00:00",
    "price": 319.0,
    "product": "Mini Tin display (10)",
    "shop": "Titan Cards",
@@ -914,5 +914,5 @@
    "flagged": false
   }
  },
- "updated": "2026-11-10T17:09:51+00:00"
+ "updated": "2026-11-10T17:23:55+00:00"
 }
