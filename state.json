@@ -651,7 +651,7 @@
   "https://www.titancards.co.uk/products/pokemon-30th-anniversary-elite-trainer-box": {
    "alertable": false,
    "available": false,
-   "last_change": "2026-11-10T15:06:55+00:00",
+   "last_change": "2026-11-10T15:34:02+00:00",
    "price": 195.0,
    "product": "Elite Trainer Box",
    "shop": "Titan Cards",
@@ -669,7 +669,7 @@
   "https://www.titancards.co.uk/products/pokemon-30th-anniversary-ultra-premium-collection-night-umbreon": {
    "alertable": false,
    "available": true,
-   "last_change": "2026-11-10T15:09:57+00:00",
+   "last_change": "2026-11-10T15:34:02+00:00",
    "price": 557.0,
    "product": "Ultra-Premium Collection",
    "shop": "Titan Cards",
@@ -905,5 +905,5 @@
    "flagged": false
   }
  },
- "updated": "2026-11-10T15:09:57+00:00"
+ "updated": "2026-11-10T15:34:02+00:00"
 }
