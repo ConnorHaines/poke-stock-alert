@@ -910,10 +910,9 @@
    "flagged": false
   },
   "Zatu": {
-   "fails": 1,
-   "flagged": false,
-   "last_error": "IncompleteRead: IncompleteRead(0 bytes read)"
+   "fails": 0,
+   "flagged": false
   }
  },
- "updated": "2026-11-10T17:07:47+00:00"
+ "updated": "2026-11-10T17:09:51+00:00"
 }
