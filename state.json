@@ -675,6 +675,15 @@
    "shop": "Titan Cards",
    "title": "Pokémon TCG: 30th Anniversary Ultra-Premium Collection — Night (Umbreon)"
   },
+  "https://www.titancards.co.uk/products/pokemon-tcg-30th-celebration-espeon-umbreon-battle-deck-bundle": {
+   "alertable": false,
+   "available": true,
+   "last_change": "2026-11-10T16:19:45+00:00",
+   "price": 84.0,
+   "product": "Battle Deck",
+   "shop": "Titan Cards",
+   "title": "Pokémon TCG 30th Celebration Espeon & Umbreon Battle Deck Bundle – 2 Decks, One of Each – Brand New"
+  },
   "https://www.titancards.co.uk/products/pokemon-tcg-30th-celebration-ex-box-sylveon": {
    "alertable": false,
    "available": false,
@@ -905,5 +914,5 @@
    "flagged": false
   }
  },
- "updated": "2026-11-10T16:08:27+00:00"
+ "updated": "2026-11-10T16:19:45+00:00"
 }
