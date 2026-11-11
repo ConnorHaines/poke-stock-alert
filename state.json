@@ -651,8 +651,8 @@
   "https://www.titancards.co.uk/products/pokemon-30th-anniversary-elite-trainer-box": {
    "alertable": false,
    "available": false,
-   "last_change": "2026-11-10T15:06:55+00:00",
-   "price": 195.0,
+   "last_change": "2026-11-11T11:07:56+00:00",
+   "price": 194.0,
    "product": "Elite Trainer Box",
    "shop": "Titan Cards",
    "title": "Pokémon TCG: 30th Anniversary Elite Trainer Box"
@@ -914,5 +914,5 @@
    "flagged": false
   }
  },
- "updated": "2026-11-11T09:00:29+00:00"
+ "updated": "2026-11-11T11:07:56+00:00"
 }
