@@ -678,7 +678,7 @@
   "https://www.titancards.co.uk/products/pokemon-tcg-30th-celebration-espeon-umbreon-battle-deck-bundle": {
    "alertable": false,
    "available": true,
-   "last_change": "2026-11-11T14:07:20+00:00",
+   "last_change": "2026-11-11T14:31:10+00:00",
    "price": 83.0,
    "product": "Battle Deck",
    "shop": "Titan Cards",
@@ -714,7 +714,7 @@
   "https://www.titancards.co.uk/products/pokemon-tcg-30th-celebration-mini-tins-sealed-display": {
    "alertable": false,
    "available": true,
-   "last_change": "2026-11-11T14:07:20+00:00",
+   "last_change": "2026-11-11T14:31:10+00:00",
    "price": 318.0,
    "product": "Mini Tin display (10)",
    "shop": "Titan Cards",
@@ -914,5 +914,5 @@
    "flagged": false
   }
  },
- "updated": "2026-11-11T14:07:20+00:00"
+ "updated": "2026-11-11T14:31:10+00:00"
 }
