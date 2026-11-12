@@ -902,20 +902,17 @@
    "flagged": false
   },
   "Titan Cards": {
-   "fails": 4,
-   "flagged": false,
-   "last_error": "Blocked: HTTP 429"
+   "fails": 0,
+   "flagged": false
   },
   "Total Cards": {
-   "fails": 4,
-   "flagged": false,
-   "last_error": "Blocked: HTTP 429"
+   "fails": 0,
+   "flagged": false
   },
   "Zatu": {
-   "fails": 4,
-   "flagged": false,
-   "last_error": "Blocked: HTTP 429"
+   "fails": 0,
+   "flagged": false
   }
  },
- "updated": "2026-11-12T20:43:49+00:00"
+ "updated": "2026-11-12T20:45:56+00:00"
 }
