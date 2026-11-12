@@ -183,8 +183,8 @@
   "https://magicmadhouse.co.uk/pokemon-30th-celebration-tin-sylveon-ex": {
    "alertable": false,
    "available": false,
-   "last_change": "2026-11-07T22:22:26+00:00",
-   "price": 21.99,
+   "last_change": "2026-11-12T18:07:51+00:00",
+   "price": 18.32,
    "product": "ex Tin",
    "shop": "Magic Madhouse",
    "title": "30th Celebration Tin Sylveon ex"
@@ -914,5 +914,5 @@
    "flagged": false
   }
  },
- "updated": "2026-11-12T16:16:36+00:00"
+ "updated": "2026-11-12T18:07:51+00:00"
 }
