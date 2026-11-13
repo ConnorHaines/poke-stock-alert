@@ -675,6 +675,15 @@
    "shop": "Titan Cards",
    "title": "Pokémon TCG: 30th Anniversary Ultra-Premium Collection — Night (Umbreon)"
   },
+  "https://www.titancards.co.uk/products/pokemon-tcg-30th-celebration-2-pack-blister-eevee": {
+   "alertable": false,
+   "available": true,
+   "last_change": "2026-11-13T15:18:58+00:00",
+   "price": 28.0,
+   "product": "2-Pack Blister",
+   "shop": "Titan Cards",
+   "title": "Pokemon TCG 30th Celebration 2 Pack Blister - Eevee"
+  },
   "https://www.titancards.co.uk/products/pokemon-tcg-30th-celebration-espeon-umbreon-battle-deck-bundle": {
    "alertable": false,
    "available": true,
@@ -914,5 +923,5 @@
    "flagged": false
   }
  },
- "updated": "2026-11-13T10:42:22+00:00"
+ "updated": "2026-11-13T15:18:58+00:00"
 }
