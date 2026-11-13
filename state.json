@@ -156,8 +156,8 @@
   "https://magicmadhouse.co.uk/pokemon-30th-celebration-tech-sticker-collection-alolan-exeggutor": {
    "alertable": false,
    "available": false,
-   "last_change": "2026-11-13T17:08:23+00:00",
-   "price": 14.16,
+   "last_change": "2026-11-13T17:14:43+00:00",
+   "price": 16.99,
    "product": "Tech Sticker Collection",
    "shop": "Magic Madhouse",
    "title": "30th Celebration Tech Sticker Collection - Alolan Exeggutor"
@@ -165,8 +165,8 @@
   "https://magicmadhouse.co.uk/pokemon-30th-celebration-tech-sticker-collection-lucario": {
    "alertable": false,
    "available": false,
-   "last_change": "2026-11-13T17:08:23+00:00",
-   "price": 14.16,
+   "last_change": "2026-11-13T17:14:43+00:00",
+   "price": 16.99,
    "product": "Tech Sticker Collection",
    "shop": "Magic Madhouse",
    "title": "30th Celebration Tech Sticker Collection - Lucario"
@@ -923,5 +923,5 @@
    "flagged": false
   }
  },
- "updated": "2026-11-13T17:08:23+00:00"
+ "updated": "2026-11-13T17:14:43+00:00"
 }
