@@ -668,8 +668,8 @@
   },
   "https://www.titancards.co.uk/products/pokemon-30th-anniversary-ultra-premium-collection-night-umbreon": {
    "alertable": false,
-   "available": true,
-   "last_change": "2026-11-16T10:57:55+00:00",
+   "available": false,
+   "last_change": "2026-11-16T11:01:55+00:00",
    "price": 549.0,
    "product": "Ultra-Premium Collection",
    "shop": "Titan Cards",
@@ -923,5 +923,5 @@
    "flagged": false
   }
  },
- "updated": "2026-11-16T10:57:55+00:00"
+ "updated": "2026-11-16T11:01:55+00:00"
 }
