@@ -30,7 +30,7 @@
   "https://magicmadhouse.co.uk/pokemon-30th-celebration-elite-trainer-box": {
    "alertable": false,
    "available": false,
-   "last_change": "2026-11-14T14:50:20+00:00",
+   "last_change": "2026-11-17T14:49:57+00:00",
    "price": 49.99,
    "product": "Elite Trainer Box",
    "shop": "Magic Madhouse",
@@ -39,8 +39,8 @@
   "https://magicmadhouse.co.uk/pokemon-30th-celebration-greninja-ex-collection-box": {
    "alertable": false,
    "available": false,
-   "last_change": "2026-11-15T16:45:35+00:00",
-   "price": 21.99,
+   "last_change": "2026-11-17T16:53:26+00:00",
+   "price": 18.32,
    "product": "ex Box",
    "shop": "Magic Madhouse",
    "title": "30th Celebration Greninja ex Collection Box"
@@ -111,7 +111,7 @@
   "https://magicmadhouse.co.uk/pokemon-30th-celebration-mini-tin-night-pikachu": {
    "alertable": false,
    "available": false,
-   "last_change": "2026-11-17T16:03:43+00:00",
+   "last_change": "2026-10-29T14:34:14+00:00",
    "price": 12.99,
    "product": "Mini Tin",
    "shop": "Magic Madhouse",
@@ -381,7 +381,7 @@
   "https://totalcards.net/products/pokemon-30th-celebration-2-pack-blister": {
    "alertable": false,
    "available": false,
-   "last_change": "2026-11-17T15:27:26+00:00",
+   "last_change": "2026-11-17T14:47:56+00:00",
    "price": 8.29,
    "product": "2-Pack Blister",
    "shop": "Total Cards",
@@ -840,7 +840,7 @@
   "https://www.zatu.co.uk/products/pokemon-tcg-30th-celebration-poster-collection": {
    "alertable": false,
    "available": true,
-   "last_change": "2026-11-17T13:38:02+00:00",
+   "last_change": "2026-11-17T12:55:56+00:00",
    "price": 39.99,
    "product": "Poster Collection",
    "shop": "Zatu",
@@ -932,5 +932,5 @@
    "flagged": false
   }
  },
- "updated": "2026-11-17T16:40:33+00:00"
+ "updated": "2026-11-17T16:53:26+00:00"
 }
