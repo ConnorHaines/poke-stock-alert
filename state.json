@@ -30,8 +30,8 @@
   "https://magicmadhouse.co.uk/pokemon-30th-celebration-elite-trainer-box": {
    "alertable": false,
    "available": false,
-   "last_change": "2026-11-17T14:44:45+00:00",
-   "price": 41.66,
+   "last_change": "2026-11-17T14:49:57+00:00",
+   "price": 49.99,
    "product": "Elite Trainer Box",
    "shop": "Magic Madhouse",
    "title": "30th Celebration Elite Trainer Box"
@@ -381,8 +381,8 @@
   "https://totalcards.net/products/pokemon-30th-celebration-2-pack-blister": {
    "alertable": false,
    "available": false,
-   "last_change": "2026-10-29T14:33:17+00:00",
-   "price": 0.0,
+   "last_change": "2026-11-17T14:47:56+00:00",
+   "price": 8.29,
    "product": "2-Pack Blister",
    "shop": "Total Cards",
    "title": "Pokemon - 30th Celebration - 2-Pack Blister"
@@ -840,7 +840,7 @@
   "https://www.zatu.co.uk/products/pokemon-tcg-30th-celebration-poster-collection": {
    "alertable": false,
    "available": true,
-   "last_change": "2026-11-17T13:38:02+00:00",
+   "last_change": "2026-11-17T12:55:56+00:00",
    "price": 39.99,
    "product": "Poster Collection",
    "shop": "Zatu",
@@ -932,5 +932,5 @@
    "flagged": false
   }
  },
- "updated": "2026-11-17T14:44:45+00:00"
+ "updated": "2026-11-17T14:49:57+00:00"
 }
