@@ -837,6 +837,15 @@
    "shop": "Zatu",
    "title": "Pokemon TCG: 30th Celebration - Mini Tin - Zapdos"
   },
+  "https://www.zatu.co.uk/products/pokemon-tcg-30th-celebration-poster-collection": {
+   "alertable": false,
+   "available": true,
+   "last_change": "2026-11-17T12:55:56+00:00",
+   "price": 39.99,
+   "product": "Poster Collection",
+   "shop": "Zatu",
+   "title": "Pokemon TCG: 30th Celebration - Poster Collection"
+  },
   "https://www.zatu.co.uk/products/pokemon-tcg-battle-deck-30th-celebration-victini": {
    "alertable": false,
    "available": false,
@@ -923,5 +932,5 @@
    "flagged": false
   }
  },
- "updated": "2026-11-17T12:42:11+00:00"
+ "updated": "2026-11-17T12:55:56+00:00"
 }
