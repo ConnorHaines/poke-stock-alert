@@ -651,7 +651,7 @@
   "https://www.titancards.co.uk/products/pokemon-30th-anniversary-elite-trainer-box": {
    "alertable": false,
    "available": false,
-   "last_change": "2026-11-16T22:54:06+00:00",
+   "last_change": "2026-11-16T22:07:20+00:00",
    "price": 193.0,
    "product": "Elite Trainer Box",
    "shop": "Titan Cards",
@@ -907,24 +907,21 @@
    "flagged": false
   },
   "Obsidia TCG": {
-   "fails": 1,
-   "flagged": false,
-   "last_error": "TimeoutError: The read operation timed out"
+   "fails": 0,
+   "flagged": false
   },
   "Titan Cards": {
-   "fails": 1,
-   "flagged": false,
-   "last_error": "TimeoutError: The read operation timed out"
+   "fails": 0,
+   "flagged": false
   },
   "Total Cards": {
-   "fails": 1,
-   "flagged": false,
-   "last_error": "TimeoutError: The read operation timed out"
+   "fails": 0,
+   "flagged": false
   },
   "Zatu": {
    "fails": 0,
    "flagged": false
   }
  },
- "updated": "2026-11-16T23:57:55+00:00"
+ "updated": "2026-11-17T00:00:47+00:00"
 }
