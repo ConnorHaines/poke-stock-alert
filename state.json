@@ -30,8 +30,8 @@
   "https://magicmadhouse.co.uk/pokemon-30th-celebration-elite-trainer-box": {
    "alertable": false,
    "available": false,
-   "last_change": "2026-11-14T14:50:20+00:00",
-   "price": 49.99,
+   "last_change": "2026-11-17T14:44:45+00:00",
+   "price": 41.66,
    "product": "Elite Trainer Box",
    "shop": "Magic Madhouse",
    "title": "30th Celebration Elite Trainer Box"
@@ -932,5 +932,5 @@
    "flagged": false
   }
  },
- "updated": "2026-11-17T13:38:02+00:00"
+ "updated": "2026-11-17T14:44:45+00:00"
 }
