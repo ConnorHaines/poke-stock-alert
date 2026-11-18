@@ -732,7 +732,7 @@
   "https://www.zatu.co.uk/products/pokemon-tcg-30th-celebration-2-pack-blister": {
    "alertable": false,
    "available": true,
-   "last_change": "2026-11-18T15:11:28+00:00",
+   "last_change": "2026-11-18T15:19:41+00:00",
    "price": 35.99,
    "product": "2-Pack Blister",
    "shop": "Zatu",
@@ -741,7 +741,7 @@
   "https://www.zatu.co.uk/products/pokemon-tcg-30th-celebration-elite-trainer-box": {
    "alertable": false,
    "available": true,
-   "last_change": "2026-11-18T14:40:37+00:00",
+   "last_change": "2026-11-18T15:19:41+00:00",
    "price": 129.99,
    "product": "Elite Trainer Box",
    "shop": "Zatu",
@@ -932,5 +932,5 @@
    "flagged": false
   }
  },
- "updated": "2026-11-18T15:11:28+00:00"
+ "updated": "2026-11-18T15:19:41+00:00"
 }
