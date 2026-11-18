@@ -731,8 +731,8 @@
   },
   "https://www.zatu.co.uk/products/pokemon-tcg-30th-celebration-2-pack-blister": {
    "alertable": false,
-   "available": false,
-   "last_change": "2026-11-14T11:23:49+00:00",
+   "available": true,
+   "last_change": "2026-11-18T15:11:28+00:00",
    "price": 35.99,
    "product": "2-Pack Blister",
    "shop": "Zatu",
@@ -932,5 +932,5 @@
    "flagged": false
   }
  },
- "updated": "2026-11-18T14:40:37+00:00"
+ "updated": "2026-11-18T15:11:28+00:00"
 }
