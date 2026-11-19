@@ -687,8 +687,8 @@
   "https://www.titancards.co.uk/products/pokemon-tcg-30th-celebration-espeon-umbreon-battle-deck-bundle": {
    "alertable": false,
    "available": true,
-   "last_change": "2026-11-19T07:47:05+00:00",
-   "price": 83.0,
+   "last_change": "2026-11-19T16:06:52+00:00",
+   "price": 82.0,
    "product": "Battle Deck",
    "shop": "Titan Cards",
    "title": "Pokémon TCG 30th Celebration Espeon & Umbreon Battle Deck Bundle – 2 Decks, One of Each – Brand New"
@@ -723,8 +723,8 @@
   "https://www.titancards.co.uk/products/pokemon-tcg-30th-celebration-mini-tins-sealed-display": {
    "alertable": false,
    "available": true,
-   "last_change": "2026-11-19T12:24:41+00:00",
-   "price": 315.0,
+   "last_change": "2026-11-19T16:06:52+00:00",
+   "price": 314.0,
    "product": "Mini Tin display (10)",
    "shop": "Titan Cards",
    "title": "Pokémon TCG: 30th Celebration Mini Tins — Sealed Display / CDU (10 Tins)"
@@ -924,15 +924,13 @@
    "flagged": false
   },
   "Total Cards": {
-   "fails": 7,
-   "flagged": true,
-   "last_error": "Blocked: HTTP 429"
+   "fails": 0,
+   "flagged": false
   },
   "Zatu": {
-   "fails": 5,
-   "flagged": true,
-   "last_error": "Blocked: HTTP 429"
+   "fails": 0,
+   "flagged": false
   }
  },
- "updated": "2026-11-19T16:03:24+00:00"
+ "updated": "2026-11-19T16:06:52+00:00"
 }
