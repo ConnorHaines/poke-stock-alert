@@ -876,7 +876,7 @@
   "https://www.zatu.co.uk/products/pokemon-tcg-figure-collection-mew-30th-celebration": {
    "alertable": false,
    "available": false,
-   "last_change": "2026-11-20T12:09:33+00:00",
+   "last_change": "2026-11-20T12:13:16+00:00",
    "price": 69.99,
    "product": "Figure Collection",
    "shop": "Zatu",
@@ -885,7 +885,7 @@
   "https://www.zatu.co.uk/products/pokemon-tcg-figure-collection-mewtwo-30th-celebration": {
    "alertable": false,
    "available": false,
-   "last_change": "2026-11-20T12:09:33+00:00",
+   "last_change": "2026-11-20T12:13:16+00:00",
    "price": 69.99,
    "product": "Figure Collection",
    "shop": "Zatu",
@@ -932,5 +932,5 @@
    "flagged": false
   }
  },
- "updated": "2026-11-20T12:09:33+00:00"
+ "updated": "2026-11-20T12:13:16+00:00"
 }
