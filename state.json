@@ -363,8 +363,8 @@
   "https://obsidia-tcg.store/products/pokemon-tcg-30th-celebration-ultra-premium-collection-day": {
    "alertable": false,
    "available": false,
-   "last_change": "2026-10-29T14:33:15+00:00",
-   "price": 169.95,
+   "last_change": "2026-11-20T09:55:52+00:00",
+   "price": 179.95,
    "product": "Ultra-Premium Collection",
    "shop": "Obsidia TCG",
    "title": "Pokemon TCG: 30th Celebration - Ultra Premium Collection Day"
@@ -932,5 +932,5 @@
    "flagged": false
   }
  },
- "updated": "2026-11-20T05:14:32+00:00"
+ "updated": "2026-11-20T09:55:52+00:00"
 }
