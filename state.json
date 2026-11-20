@@ -425,8 +425,8 @@
   },
   "https://totalcards.net/products/pokemon-30th-celebration-booster-pack": {
    "alertable": false,
-   "available": true,
-   "last_change": "2026-11-20T18:38:10+00:00",
+   "available": false,
+   "last_change": "2026-11-19T17:53:42+00:00",
    "price": 9.96,
    "product": "Booster Pack",
    "shop": "Total Cards",
@@ -916,8 +916,8 @@
    "flagged": false
   },
   "Obsidia TCG": {
-   "fails": 1,
-   "flagged": false,
+   "fails": 5,
+   "flagged": true,
    "last_error": "Blocked: HTTP 429"
   },
   "Titan Cards": {
@@ -925,15 +925,15 @@
    "flagged": false
   },
   "Total Cards": {
-   "fails": 25,
+   "fails": 29,
    "flagged": true,
    "last_error": "Blocked: HTTP 429"
   },
   "Zatu": {
-   "fails": 17,
+   "fails": 19,
    "flagged": true,
    "last_error": "Blocked: HTTP 429"
   }
  },
- "updated": "2026-11-20T19:34:20+00:00"
+ "updated": "2026-11-20T19:43:30+00:00"
 }
