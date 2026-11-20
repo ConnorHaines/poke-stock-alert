@@ -705,7 +705,7 @@
   "https://www.titancards.co.uk/products/pokemon-tcg-30th-celebration-figure-collection-mew": {
    "alertable": false,
    "available": true,
-   "last_change": "2026-11-20T19:07:28+00:00",
+   "last_change": "2026-11-20T19:34:20+00:00",
    "price": 109.0,
    "product": "Figure Collection",
    "shop": "Titan Cards",
@@ -916,21 +916,24 @@
    "flagged": false
   },
   "Obsidia TCG": {
-   "fails": 0,
-   "flagged": false
+   "fails": 1,
+   "flagged": false,
+   "last_error": "Blocked: HTTP 429"
   },
   "Titan Cards": {
    "fails": 0,
    "flagged": false
   },
   "Total Cards": {
-   "fails": 0,
-   "flagged": false
+   "fails": 25,
+   "flagged": true,
+   "last_error": "Blocked: HTTP 429"
   },
   "Zatu": {
-   "fails": 0,
-   "flagged": false
+   "fails": 17,
+   "flagged": true,
+   "last_error": "Blocked: HTTP 429"
   }
  },
- "updated": "2026-11-20T19:07:28+00:00"
+ "updated": "2026-11-20T19:34:20+00:00"
 }
