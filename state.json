@@ -876,7 +876,7 @@
   "https://www.zatu.co.uk/products/pokemon-tcg-figure-collection-mew-30th-celebration": {
    "alertable": false,
    "available": false,
-   "last_change": "2026-11-20T12:13:16+00:00",
+   "last_change": "2026-11-20T12:09:33+00:00",
    "price": 69.99,
    "product": "Figure Collection",
    "shop": "Zatu",
@@ -885,7 +885,7 @@
   "https://www.zatu.co.uk/products/pokemon-tcg-figure-collection-mewtwo-30th-celebration": {
    "alertable": false,
    "available": false,
-   "last_change": "2026-11-20T12:13:16+00:00",
+   "last_change": "2026-11-20T12:09:33+00:00",
    "price": 69.99,
    "product": "Figure Collection",
    "shop": "Zatu",
@@ -916,7 +916,7 @@
    "flagged": false
   },
   "Obsidia TCG": {
-   "fails": 5,
+   "fails": 6,
    "flagged": true,
    "last_error": "Blocked: HTTP 429"
   },
@@ -925,15 +925,15 @@
    "flagged": false
   },
   "Total Cards": {
-   "fails": 4,
-   "flagged": false,
+   "fails": 6,
+   "flagged": true,
    "last_error": "Blocked: HTTP 429"
   },
   "Zatu": {
-   "fails": 3,
-   "flagged": false,
+   "fails": 5,
+   "flagged": true,
    "last_error": "Blocked: HTTP 429"
   }
  },
- "updated": "2026-11-20T13:17:00+00:00"
+ "updated": "2026-11-20T13:20:26+00:00"
 }
