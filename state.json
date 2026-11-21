@@ -677,8 +677,8 @@
   },
   "https://www.titancards.co.uk/products/pokemon-tcg-30th-celebration-2-pack-blister-eevee": {
    "alertable": false,
-   "available": true,
-   "last_change": "2026-11-14T11:23:42+00:00",
+   "available": false,
+   "last_change": "2026-11-21T10:00:37+00:00",
    "price": 28.0,
    "product": "2-Pack Blister",
    "shop": "Titan Cards",
@@ -932,5 +932,5 @@
    "flagged": false
   }
  },
- "updated": "2026-11-20T22:19:42+00:00"
+ "updated": "2026-11-21T10:00:37+00:00"
 }
