@@ -924,15 +924,13 @@
    "flagged": false
   },
   "Total Cards": {
-   "fails": 25,
-   "flagged": true,
-   "last_error": "Blocked: HTTP 429"
+   "fails": 0,
+   "flagged": false
   },
   "Zatu": {
-   "fails": 17,
-   "flagged": true,
-   "last_error": "Blocked: HTTP 429"
+   "fails": 0,
+   "flagged": false
   }
  },
- "updated": "2026-11-22T13:34:30+00:00"
+ "updated": "2026-11-22T13:34:41+00:00"
 }
