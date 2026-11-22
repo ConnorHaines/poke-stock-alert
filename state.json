@@ -916,9 +916,8 @@
    "flagged": false
   },
   "Obsidia TCG": {
-   "fails": 5,
-   "flagged": true,
-   "last_error": "Blocked: HTTP 429"
+   "fails": 0,
+   "flagged": false
   },
   "Titan Cards": {
    "fails": 0,
@@ -935,5 +934,5 @@
    "last_error": "Blocked: HTTP 429"
   }
  },
- "updated": "2026-11-22T12:35:32+00:00"
+ "updated": "2026-11-22T13:34:30+00:00"
 }
