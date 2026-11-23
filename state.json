@@ -372,7 +372,7 @@
   "https://obsidia-tcg.store/products/pokemon-tcg-30th-celebration-ultra-premium-collection-night": {
    "alertable": true,
    "available": true,
-   "last_change": "2026-11-23T09:03:08+00:00",
+   "last_change": "2026-11-23T09:42:18+00:00",
    "price": 179.95,
    "product": "Ultra-Premium Collection",
    "shop": "Obsidia TCG",
@@ -932,5 +932,5 @@
    "flagged": false
   }
  },
- "updated": "2026-11-23T09:03:08+00:00"
+ "updated": "2026-11-23T09:42:18+00:00"
 }
