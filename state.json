@@ -660,7 +660,7 @@
   "https://www.titancards.co.uk/products/pokemon-30th-anniversary-ultra-premium-collection-day-espeon": {
    "alertable": false,
    "available": true,
-   "last_change": "2026-11-23T10:58:10+00:00",
+   "last_change": "2026-11-23T11:31:53+00:00",
    "price": 546.0,
    "product": "Ultra-Premium Collection",
    "shop": "Titan Cards",
@@ -669,7 +669,7 @@
   "https://www.titancards.co.uk/products/pokemon-30th-anniversary-ultra-premium-collection-night-umbreon": {
    "alertable": false,
    "available": true,
-   "last_change": "2026-11-23T10:37:29+00:00",
+   "last_change": "2026-11-23T11:31:53+00:00",
    "price": 546.0,
    "product": "Ultra-Premium Collection",
    "shop": "Titan Cards",
@@ -687,7 +687,7 @@
   "https://www.titancards.co.uk/products/pokemon-tcg-30th-celebration-ditto-premium-collection": {
    "alertable": false,
    "available": true,
-   "last_change": "2026-11-23T10:58:10+00:00",
+   "last_change": "2026-11-23T11:31:53+00:00",
    "price": 96.0,
    "product": "Ditto Premium Collection",
    "shop": "Titan Cards",
@@ -941,5 +941,5 @@
    "flagged": false
   }
  },
- "updated": "2026-11-23T10:58:10+00:00"
+ "updated": "2026-11-23T11:31:53+00:00"
 }
