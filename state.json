@@ -255,8 +255,8 @@
   "https://obsidia-tcg.store/products/pokemon-tcg-30th-celebration-ditto-premium-collection": {
    "alertable": false,
    "available": false,
-   "last_change": "2026-10-29T14:33:15+00:00",
-   "price": 39.95,
+   "last_change": "2026-11-23T12:46:25+00:00",
+   "price": 39.99,
    "product": "Ditto Premium Collection",
    "shop": "Obsidia TCG",
    "title": "Pokemon TCG: 30th Celebration - Ditto Premium Collection"
@@ -941,5 +941,5 @@
    "flagged": false
   }
  },
- "updated": "2026-11-23T11:31:53+00:00"
+ "updated": "2026-11-23T12:46:25+00:00"
 }
