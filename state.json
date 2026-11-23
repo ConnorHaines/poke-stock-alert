@@ -255,7 +255,7 @@
   "https://obsidia-tcg.store/products/pokemon-tcg-30th-celebration-ditto-premium-collection": {
    "alertable": false,
    "available": false,
-   "last_change": "2026-11-23T13:21:19+00:00",
+   "last_change": "2026-11-23T12:46:25+00:00",
    "price": 39.99,
    "product": "Ditto Premium Collection",
    "shop": "Obsidia TCG",
@@ -363,7 +363,7 @@
   "https://obsidia-tcg.store/products/pokemon-tcg-30th-celebration-ultra-premium-collection-day": {
    "alertable": false,
    "available": false,
-   "last_change": "2026-11-23T13:21:19+00:00",
+   "last_change": "2026-11-23T12:49:57+00:00",
    "price": 179.99,
    "product": "Ultra-Premium Collection",
    "shop": "Obsidia TCG",
@@ -372,8 +372,8 @@
   "https://obsidia-tcg.store/products/pokemon-tcg-30th-celebration-ultra-premium-collection-night": {
    "alertable": true,
    "available": true,
-   "last_change": "2026-11-23T09:03:08+00:00",
-   "price": 179.95,
+   "last_change": "2026-11-23T14:45:34+00:00",
+   "price": 179.99,
    "product": "Ultra-Premium Collection",
    "shop": "Obsidia TCG",
    "title": "Pokemon TCG: 30th Celebration - Ultra Premium Collection Night"
@@ -687,7 +687,7 @@
   "https://www.titancards.co.uk/products/pokemon-tcg-30th-celebration-ditto-premium-collection": {
    "alertable": false,
    "available": true,
-   "last_change": "2026-11-23T11:31:53+00:00",
+   "last_change": "2026-11-23T10:58:10+00:00",
    "price": 96.0,
    "product": "Ditto Premium Collection",
    "shop": "Titan Cards",
@@ -941,5 +941,5 @@
    "flagged": false
   }
  },
- "updated": "2026-11-23T14:17:07+00:00"
+ "updated": "2026-11-23T14:45:34+00:00"
 }
