@@ -660,7 +660,7 @@
   "https://www.titancards.co.uk/products/pokemon-30th-anniversary-ultra-premium-collection-day-espeon": {
    "alertable": false,
    "available": true,
-   "last_change": "2026-11-24T18:07:18+00:00",
+   "last_change": "2026-11-24T18:38:46+00:00",
    "price": 547.0,
    "product": "Ultra-Premium Collection",
    "shop": "Titan Cards",
@@ -669,7 +669,7 @@
   "https://www.titancards.co.uk/products/pokemon-30th-anniversary-ultra-premium-collection-night-umbreon": {
    "alertable": false,
    "available": true,
-   "last_change": "2026-11-24T18:07:18+00:00",
+   "last_change": "2026-11-24T18:38:46+00:00",
    "price": 547.0,
    "product": "Ultra-Premium Collection",
    "shop": "Titan Cards",
@@ -941,5 +941,5 @@
    "flagged": false
   }
  },
- "updated": "2026-11-24T18:38:44+00:00"
+ "updated": "2026-11-24T18:38:52+00:00"
 }
