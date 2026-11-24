@@ -925,24 +925,23 @@
    "flagged": false
   },
   "Obsidia TCG": {
-   "fails": 5,
-   "flagged": true,
-   "last_error": "Blocked: HTTP 429"
+   "fails": 0,
+   "flagged": false
   },
   "Titan Cards": {
    "fails": 0,
    "flagged": false
   },
   "Total Cards": {
-   "fails": 22,
+   "fails": 26,
    "flagged": true,
    "last_error": "Blocked: HTTP 429"
   },
   "Zatu": {
-   "fails": 15,
+   "fails": 18,
    "flagged": true,
    "last_error": "Blocked: HTTP 429"
   }
  },
- "updated": "2026-11-24T13:51:50+00:00"
+ "updated": "2026-11-24T13:59:58+00:00"
 }
