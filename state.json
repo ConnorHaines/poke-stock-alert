@@ -253,9 +253,9 @@
    "title": "Pokemon TCG: 30th Celebration - Day Mini Tin"
   },
   "https://obsidia-tcg.store/products/pokemon-tcg-30th-celebration-ditto-premium-collection": {
-   "alertable": false,
-   "available": false,
-   "last_change": "2026-11-23T12:46:25+00:00",
+   "alertable": true,
+   "available": true,
+   "last_change": "2026-11-24T14:40:14+00:00",
    "price": 39.99,
    "product": "Ditto Premium Collection",
    "shop": "Obsidia TCG",
@@ -361,9 +361,9 @@
    "title": "Pokemon TCG: 30th Celebration - Tech Sticker Collection"
   },
   "https://obsidia-tcg.store/products/pokemon-tcg-30th-celebration-ultra-premium-collection-day": {
-   "alertable": false,
-   "available": false,
-   "last_change": "2026-11-23T12:49:57+00:00",
+   "alertable": true,
+   "available": true,
+   "last_change": "2026-11-24T14:40:14+00:00",
    "price": 179.99,
    "product": "Ultra-Premium Collection",
    "shop": "Obsidia TCG",
@@ -933,15 +933,13 @@
    "flagged": false
   },
   "Total Cards": {
-   "fails": 26,
-   "flagged": true,
-   "last_error": "Blocked: HTTP 429"
+   "fails": 0,
+   "flagged": false
   },
   "Zatu": {
-   "fails": 18,
-   "flagged": true,
-   "last_error": "Blocked: HTTP 429"
+   "fails": 0,
+   "flagged": false
   }
  },
- "updated": "2026-11-24T14:07:26+00:00"
+ "updated": "2026-11-24T14:40:14+00:00"
 }
