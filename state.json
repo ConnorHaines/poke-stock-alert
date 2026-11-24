@@ -660,8 +660,8 @@
   "https://www.titancards.co.uk/products/pokemon-30th-anniversary-ultra-premium-collection-day-espeon": {
    "alertable": false,
    "available": true,
-   "last_change": "2026-11-23T23:07:05+00:00",
-   "price": 780.0,
+   "last_change": "2026-11-24T00:20:46+00:00",
+   "price": 543.0,
    "product": "Ultra-Premium Collection",
    "shop": "Titan Cards",
    "title": "Pokemon TCG 30th Anniversary Ultra Premium Collection - Day/Espeon"
@@ -669,8 +669,8 @@
   "https://www.titancards.co.uk/products/pokemon-30th-anniversary-ultra-premium-collection-night-umbreon": {
    "alertable": false,
    "available": true,
-   "last_change": "2026-11-23T23:07:05+00:00",
-   "price": 780.0,
+   "last_change": "2026-11-24T00:20:46+00:00",
+   "price": 543.0,
    "product": "Ultra-Premium Collection",
    "shop": "Titan Cards",
    "title": "Pokémon TCG: 30th Anniversary Ultra-Premium Collection — Night (Umbreon)"
@@ -687,8 +687,8 @@
   "https://www.titancards.co.uk/products/pokemon-tcg-30th-celebration-ditto-premium-collection": {
    "alertable": false,
    "available": true,
-   "last_change": "2026-11-23T22:31:28+00:00",
-   "price": 137.0,
+   "last_change": "2026-11-24T00:20:46+00:00",
+   "price": 95.0,
    "product": "Ditto Premium Collection",
    "shop": "Titan Cards",
    "title": "Pokémon TCG: Ditto Premium Collection — 30th Celebration"
@@ -696,8 +696,8 @@
   "https://www.titancards.co.uk/products/pokemon-tcg-30th-celebration-espeon-umbreon-battle-deck-bundle": {
    "alertable": false,
    "available": true,
-   "last_change": "2026-11-23T22:31:28+00:00",
-   "price": 117.0,
+   "last_change": "2026-11-24T00:20:46+00:00",
+   "price": 82.0,
    "product": "Battle Deck",
    "shop": "Titan Cards",
    "title": "Pokémon TCG 30th Celebration Espeon & Umbreon Battle Deck Bundle – 2 Decks, One of Each – Brand New"
@@ -941,5 +941,5 @@
    "flagged": false
   }
  },
- "updated": "2026-11-23T23:07:05+00:00"
+ "updated": "2026-11-24T00:20:46+00:00"
 }
