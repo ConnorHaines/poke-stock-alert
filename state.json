@@ -937,10 +937,9 @@
    "flagged": false
   },
   "Zatu": {
-   "fails": 17,
-   "flagged": true,
-   "last_error": "Blocked: HTTP 429"
+   "fails": 0,
+   "flagged": false
   }
  },
- "updated": "2026-11-24T17:44:06+00:00"
+ "updated": "2026-11-24T17:44:30+00:00"
 }
