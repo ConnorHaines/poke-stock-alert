@@ -660,7 +660,7 @@
   "https://www.titancards.co.uk/products/pokemon-30th-anniversary-ultra-premium-collection-day-espeon": {
    "alertable": false,
    "available": true,
-   "last_change": "2026-11-25T04:44:32+00:00",
+   "last_change": "2026-11-25T04:07:37+00:00",
    "price": 545.0,
    "product": "Ultra-Premium Collection",
    "shop": "Titan Cards",
@@ -669,7 +669,7 @@
   "https://www.titancards.co.uk/products/pokemon-30th-anniversary-ultra-premium-collection-night-umbreon": {
    "alertable": false,
    "available": true,
-   "last_change": "2026-11-25T04:44:32+00:00",
+   "last_change": "2026-11-25T04:07:37+00:00",
    "price": 545.0,
    "product": "Ultra-Premium Collection",
    "shop": "Titan Cards",
@@ -925,8 +925,8 @@
    "flagged": false
   },
   "Obsidia TCG": {
-   "fails": 4,
-   "flagged": false,
+   "fails": 6,
+   "flagged": true,
    "last_error": "Blocked: HTTP 429"
   },
   "Titan Cards": {
@@ -934,15 +934,15 @@
    "flagged": false
   },
   "Total Cards": {
-   "fails": 5,
+   "fails": 6,
    "flagged": true,
    "last_error": "Blocked: HTTP 429"
   },
   "Zatu": {
-   "fails": 3,
-   "flagged": false,
+   "fails": 5,
+   "flagged": true,
    "last_error": "Blocked: HTTP 429"
   }
  },
- "updated": "2026-11-25T05:49:41+00:00"
+ "updated": "2026-11-25T05:53:40+00:00"
 }
