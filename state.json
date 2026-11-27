@@ -408,7 +408,7 @@
   "https://totalcards.net/products/pokemon-30th-celebration-binder-collection": {
    "alertable": false,
    "available": false,
-   "last_change": "2026-11-27T03:52:10+00:00",
+   "last_change": "2026-11-27T04:32:24+00:00",
    "price": 66.63,
    "product": "Binder Collection",
    "shop": "Total Cards",
@@ -444,7 +444,7 @@
   "https://totalcards.net/products/pokemon-30th-celebration-elite-trainer-box": {
    "alertable": false,
    "available": false,
-   "last_change": "2026-11-27T03:43:00+00:00",
+   "last_change": "2026-11-27T04:32:24+00:00",
    "price": 91.63,
    "product": "Elite Trainer Box",
    "shop": "Total Cards",
@@ -941,5 +941,5 @@
    "flagged": false
   }
  },
- "updated": "2026-11-27T04:06:51+00:00"
+ "updated": "2026-11-27T04:32:24+00:00"
 }
