@@ -462,7 +462,7 @@
   "https://totalcards.net/products/pokemon-30th-celebration-figure-collection-mewtwo": {
    "alertable": false,
    "available": false,
-   "last_change": "2026-11-27T03:38:35+00:00",
+   "last_change": "2026-11-27T03:37:35+00:00",
    "price": 45.79,
    "product": "Figure Collection",
    "shop": "Total Cards",
@@ -471,7 +471,7 @@
   "https://totalcards.net/products/pokemon-30th-celebration-greninja-ex-box": {
    "alertable": false,
    "available": false,
-   "last_change": "2026-11-27T03:38:35+00:00",
+   "last_change": "2026-11-27T03:37:35+00:00",
    "price": 29.13,
    "product": "ex Box",
    "shop": "Total Cards",
@@ -660,7 +660,7 @@
   "https://www.titancards.co.uk/products/pokemon-30th-anniversary-ultra-premium-collection-day-espeon": {
    "alertable": false,
    "available": true,
-   "last_change": "2026-11-27T04:06:51+00:00",
+   "last_change": "2026-11-27T04:32:27+00:00",
    "price": 546.0,
    "product": "Ultra-Premium Collection",
    "shop": "Titan Cards",
@@ -669,7 +669,7 @@
   "https://www.titancards.co.uk/products/pokemon-30th-anniversary-ultra-premium-collection-night-umbreon": {
    "alertable": false,
    "available": true,
-   "last_change": "2026-11-27T04:06:51+00:00",
+   "last_change": "2026-11-27T04:32:27+00:00",
    "price": 546.0,
    "product": "Ultra-Premium Collection",
    "shop": "Titan Cards",
@@ -941,5 +941,5 @@
    "flagged": false
   }
  },
- "updated": "2026-11-27T04:32:24+00:00"
+ "updated": "2026-11-27T04:32:27+00:00"
 }
