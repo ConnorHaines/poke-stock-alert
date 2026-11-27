@@ -462,8 +462,8 @@
   "https://totalcards.net/products/pokemon-30th-celebration-figure-collection-mewtwo": {
    "alertable": false,
    "available": false,
-   "last_change": "2026-10-29T14:33:17+00:00",
-   "price": 0.0,
+   "last_change": "2026-11-27T03:37:35+00:00",
+   "price": 45.79,
    "product": "Figure Collection",
    "shop": "Total Cards",
    "title": "Pokemon - 30th Celebration - Figure Collection - Mewtwo"
@@ -471,8 +471,8 @@
   "https://totalcards.net/products/pokemon-30th-celebration-greninja-ex-box": {
    "alertable": false,
    "available": false,
-   "last_change": "2026-10-29T14:33:17+00:00",
-   "price": 0.0,
+   "last_change": "2026-11-27T03:37:35+00:00",
+   "price": 29.13,
    "product": "ex Box",
    "shop": "Total Cards",
    "title": "Pokemon - 30th Celebration - Greninja ex Box"
@@ -941,5 +941,5 @@
    "flagged": false
   }
  },
- "updated": "2026-11-27T03:08:57+00:00"
+ "updated": "2026-11-27T03:37:35+00:00"
 }
