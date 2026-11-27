@@ -686,8 +686,8 @@
   },
   "https://www.titancards.co.uk/products/pokemon-tcg-30th-celebration-ditto-premium-collection": {
    "alertable": false,
-   "available": true,
-   "last_change": "2026-11-24T09:29:45+00:00",
+   "available": false,
+   "last_change": "2026-11-27T14:42:13+00:00",
    "price": 96.0,
    "product": "Ditto Premium Collection",
    "shop": "Titan Cards",
@@ -941,5 +941,5 @@
    "flagged": false
   }
  },
- "updated": "2026-11-27T11:04:19+00:00"
+ "updated": "2026-11-27T14:42:13+00:00"
 }
