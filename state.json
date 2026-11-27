@@ -444,8 +444,8 @@
   "https://totalcards.net/products/pokemon-30th-celebration-elite-trainer-box": {
    "alertable": false,
    "available": false,
-   "last_change": "2026-10-29T14:33:17+00:00",
-   "price": 43.71,
+   "last_change": "2026-11-27T03:43:00+00:00",
+   "price": 91.63,
    "product": "Elite Trainer Box",
    "shop": "Total Cards",
    "title": "Pokemon - 30th Celebration - Elite Trainer Box"
@@ -660,7 +660,7 @@
   "https://www.titancards.co.uk/products/pokemon-30th-anniversary-ultra-premium-collection-day-espeon": {
    "alertable": false,
    "available": true,
-   "last_change": "2026-11-27T03:08:57+00:00",
+   "last_change": "2026-11-27T03:38:37+00:00",
    "price": 547.0,
    "product": "Ultra-Premium Collection",
    "shop": "Titan Cards",
@@ -669,7 +669,7 @@
   "https://www.titancards.co.uk/products/pokemon-30th-anniversary-ultra-premium-collection-night-umbreon": {
    "alertable": false,
    "available": true,
-   "last_change": "2026-11-27T03:08:57+00:00",
+   "last_change": "2026-11-27T03:38:37+00:00",
    "price": 547.0,
    "product": "Ultra-Premium Collection",
    "shop": "Titan Cards",
@@ -941,5 +941,5 @@
    "flagged": false
   }
  },
- "updated": "2026-11-27T03:38:35+00:00"
+ "updated": "2026-11-27T03:43:00+00:00"
 }
